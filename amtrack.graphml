@@ -1,0 +1,3451 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="long" attr.type="double"/>
+<graph edgedefault="undirected"><node id="New Orleans">
+  <data key="d0">-90.0782127</data>
+  <data key="d1">29.9759983</data>
+</node>
+<node id="Schriever">
+  <data key="d0">-90.81026625563368</data>
+  <data key="d1">29.7386285</data>
+</node>
+<node id="New Iberia">
+  <data key="d0">-91.8187285</data>
+  <data key="d1">30.0035365</data>
+</node>
+<node id="Lafayette">
+  <data key="d0">-83.2221527</data>
+  <data key="d1">29.9978185</data>
+</node>
+<node id="Lake Charles">
+  <data key="d0">-93.2169807</data>
+  <data key="d1">30.2305095</data>
+</node>
+<node id="Beaumont">
+  <data key="d0">-94.1018461</data>
+  <data key="d1">30.0860459</data>
+</node>
+<node id="Houston">
+  <data key="d0">-95.3676974</data>
+  <data key="d1">29.7589382</data>
+</node>
+<node id="San Antonio">
+  <data key="d0">-98.4951405</data>
+  <data key="d1">29.4246002</data>
+</node>
+<node id="Del Rio">
+  <data key="d0">-100.8987707</data>
+  <data key="d1">29.357515</data>
+</node>
+<node id="Sanderson">
+  <data key="d0">-102.394024</data>
+  <data key="d1">30.1424077</data>
+</node>
+<node id="Alpine">
+  <data key="d0">-119.8345013</data>
+  <data key="d1">38.5893934</data>
+</node>
+<node id="El Paso">
+  <data key="d0">-106.488234</data>
+  <data key="d1">31.7550511</data>
+</node>
+<node id="Deming">
+  <data key="d0">-107.7581979</data>
+  <data key="d1">32.2627416</data>
+</node>
+<node id="Lordsburg">
+  <data key="d0">-108.708434</data>
+  <data key="d1">32.3504143</data>
+</node>
+<node id="Benson">
+  <data key="d0">-99.403103</data>
+  <data key="d1">48.0191362</data>
+</node>
+<node id="Tucson">
+  <data key="d0">-110.974847</data>
+  <data key="d1">32.2228765</data>
+</node>
+<node id="Maricopa">
+  <data key="d0">-112.49123</data>
+  <data key="d1">33.34883</data>
+</node>
+<node id="Yuma">
+  <data key="d0">-114.47603157249804</data>
+  <data key="d1">32.665135</data>
+</node>
+<node id="Palm Springs">
+  <data key="d0">-116.540303</data>
+  <data key="d1">33.8246269</data>
+</node>
+<node id="Ontario">
+  <data key="d0">-117.64843</data>
+  <data key="d1">34.065846</data>
+</node>
+<node id="Pomona">
+  <data key="d0">-117.7517496</data>
+  <data key="d1">34.0553813</data>
+</node>
+<node id="Los Angeles Union">
+  <data key="d0">-118.1496559</data>
+  <data key="d1">34.1468979</data>
+</node>
+<node id="Chicago Union">
+  <data key="d0">-87.6420486</data>
+  <data key="d1">41.7790628</data>
+</node>
+<node id="Naperville">
+  <data key="d0">-88.1479278</data>
+  <data key="d1">41.7728699</data>
+</node>
+<node id="Mendota">
+  <data key="d0">-93.1643869</data>
+  <data key="d1">44.8871878</data>
+</node>
+<node id="Princeton">
+  <data key="d0">-74.6597376</data>
+  <data key="d1">40.3496953</data>
+</node>
+<node id="Galesburg">
+  <data key="d0">-90.3712169</data>
+  <data key="d1">40.9475652</data>
+</node>
+<node id="Fort Madison">
+  <data key="d0">-91.3084007</data>
+  <data key="d1">40.6311415</data>
+</node>
+<node id="La Plata">
+  <data key="d0">-107.8539029</data>
+  <data key="d1">37.2889732</data>
+</node>
+<node id="Kansas City">
+  <data key="d0">-94.5781416</data>
+  <data key="d1">39.100105</data>
+</node>
+<node id="Lawrence">
+  <data key="d0">-80.350071</data>
+  <data key="d1">41.001415</data>
+</node>
+<node id="Topeka">
+  <data key="d0">-95.677556</data>
+  <data key="d1">39.049011</data>
+</node>
+<node id="Newton">
+  <data key="d0">-93.740504</data>
+  <data key="d1">30.8118989</data>
+</node>
+<node id="Hutchinson">
+  <data key="d0">-101.34844</data>
+  <data key="d1">35.8148236</data>
+</node>
+<node id="Dodge City">
+  <data key="d0">-100.0170787</data>
+  <data key="d1">37.7527982</data>
+</node>
+<node id="Garden City">
+  <data key="d0">-100.8726618</data>
+  <data key="d1">37.9716898</data>
+</node>
+<node id="Lamar">
+  <data key="d0">-95.582343</data>
+  <data key="d1">33.6383552</data>
+</node>
+<node id="La Junta">
+  <data key="d0">-103.543832</data>
+  <data key="d1">37.9850091</data>
+</node>
+<node id="Trinidad">
+  <data key="d0">-104.500541</data>
+  <data key="d1">37.169397</data>
+</node>
+<node id="Raton">
+  <data key="d0">-104.4354816</data>
+  <data key="d1">36.8979234</data>
+</node>
+<node id="Las Vegas">
+  <data key="d0">-115.148516</data>
+  <data key="d1">36.1672559</data>
+</node>
+<node id="Lamy">
+  <data key="d0">-105.880191</data>
+  <data key="d1">35.4806651</data>
+</node>
+<node id="Albuquerque">
+  <data key="d0">-106.650985</data>
+  <data key="d1">35.0841034</data>
+</node>
+<node id="Gallup">
+  <data key="d0">-108.743907</data>
+  <data key="d1">35.5283506</data>
+</node>
+<node id="Winslow">
+  <data key="d0">-110.6973463</data>
+  <data key="d1">35.0241984</data>
+</node>
+<node id="Flagstaff">
+  <data key="d0">-111.651822</data>
+  <data key="d1">35.1987522</data>
+</node>
+<node id="Kingman">
+  <data key="d0">-98.122172</data>
+  <data key="d1">37.5420937</data>
+</node>
+<node id="Needles">
+  <data key="d0">-114.603872</data>
+  <data key="d1">34.8383236</data>
+</node>
+<node id="Barstow">
+  <data key="d0">-117.0244313</data>
+  <data key="d1">34.8986215</data>
+</node>
+<node id="Victorville">
+  <data key="d0">-117.2911565</data>
+  <data key="d1">34.5361067</data>
+</node>
+<node id="San Bernardino">
+  <data key="d0">-116.0833144</data>
+  <data key="d1">34.8253019</data>
+</node>
+<node id="Riverside">
+  <data key="d0">-116.0372472</data>
+  <data key="d1">33.7219991</data>
+</node>
+<node id="Fullerton">
+  <data key="d0">-117.929416</data>
+  <data key="d1">33.8708215</data>
+</node>
+<node id="Burlington">
+  <data key="d0">-73.212906</data>
+  <data key="d1">44.4761601</data>
+</node>
+<node id="Mount Pleasant">
+  <data key="d0">-94.9694007</data>
+  <data key="d1">33.1570582</data>
+</node>
+<node id="Ottumwa">
+  <data key="d0">-92.4116886</data>
+  <data key="d1">41.0195659</data>
+</node>
+<node id="Osceola">
+  <data key="d0">-81.1437541</data>
+  <data key="d1">28.0443842</data>
+</node>
+<node id="Creston">
+  <data key="d0">-94.361397</data>
+  <data key="d1">41.0585878</data>
+</node>
+<node id="Omaha">
+  <data key="d0">-95.9383758</data>
+  <data key="d1">41.2587459</data>
+</node>
+<node id="Lincoln">
+  <data key="d0">-96.7077751</data>
+  <data key="d1">40.8088861</data>
+</node>
+<node id="Hastings">
+  <data key="d0">-92.8518697</data>
+  <data key="d1">44.7426933</data>
+</node>
+<node id="Holdrege">
+  <data key="d0">-99.3698995</data>
+  <data key="d1">40.4379956</data>
+</node>
+<node id="McCook">
+  <data key="d0">-97.37153</data>
+  <data key="d1">43.6719795</data>
+</node>
+<node id="Fort Morgan">
+  <data key="d0">-103.799951</data>
+  <data key="d1">40.2502582</data>
+</node>
+<node id="Denver">
+  <data key="d0">-104.984862</data>
+  <data key="d1">39.7392364</data>
+</node>
+<node id="Fraser-Winter Park">
+  <data key="d0">-105.8176116</data>
+  <data key="d1">39.9475803</data>
+</node>
+<node id="Granby">
+  <data key="d0">-72.7894272</data>
+  <data key="d1">41.9539032</data>
+</node>
+<node id="Glenwood Springs">
+  <data key="d0">-107.3246941</data>
+  <data key="d1">39.5466381</data>
+</node>
+<node id="Grand Junction">
+  <data key="d0">-108.56448</data>
+  <data key="d1">39.0672568</data>
+</node>
+<node id="Green River">
+  <data key="d0">-109.466473</data>
+  <data key="d1">41.5290933</data>
+</node>
+<node id="Helper">
+  <data key="d0">-110.854605</data>
+  <data key="d1">39.6841305</data>
+</node>
+<node id="Provo">
+  <data key="d0">-111.6587085</data>
+  <data key="d1">40.2337289</data>
+</node>
+<node id="Salt Lake City">
+  <data key="d0">-111.886797</data>
+  <data key="d1">40.7596198</data>
+</node>
+<node id="Elko">
+  <data key="d0">-115.3272864</data>
+  <data key="d1">41.1958128</data>
+</node>
+<node id="Winnemucca">
+  <data key="d0">-117.7347619</data>
+  <data key="d1">40.972415</data>
+</node>
+<node id="Reno">
+  <data key="d0">-119.8126581</data>
+  <data key="d1">39.5261206</data>
+</node>
+<node id="Truckee">
+  <data key="d0">-120.1832533</data>
+  <data key="d1">39.327962</data>
+</node>
+<node id="Colfax">
+  <data key="d0">-97.0828487</data>
+  <data key="d1">41.5738643</data>
+</node>
+<node id="Roseville">
+  <data key="d0">-121.2880059</data>
+  <data key="d1">38.7521235</data>
+</node>
+<node id="Sacramento">
+  <data key="d0">-121.493895</data>
+  <data key="d1">38.5810606</data>
+</node>
+<node id="Davis">
+  <data key="d0">-92.3965311</data>
+  <data key="d1">40.7474784</data>
+</node>
+<node id="Martinez">
+  <data key="d0">-122.1338674</data>
+  <data key="d1">38.0138934</data>
+</node>
+<node id="Richmond">
+  <data key="d0">-77.43428</data>
+  <data key="d1">37.5385087</data>
+</node>
+<node id="Emeryville">
+  <data key="d0">-122.2865266</data>
+  <data key="d1">37.8314089</data>
+</node>
+<node id="Glenview">
+  <data key="d0">-85.6505526</data>
+  <data key="d1">38.3084193</data>
+</node>
+<node id="Milwaukee">
+  <data key="d0">-87.922497</data>
+  <data key="d1">43.0349931</data>
+</node>
+<node id="Columbus">
+  <data key="d0">-83.0007065</data>
+  <data key="d1">39.9622601</data>
+</node>
+<node id="Portage">
+  <data key="d0">-81.2082</data>
+  <data key="d1">41.1496775</data>
+</node>
+<node id="Wisconsin Dells">
+  <data key="d0">-89.7715646</data>
+  <data key="d1">43.6256168</data>
+</node>
+<node id="Tomah">
+  <data key="d0">-90.5040214</data>
+  <data key="d1">43.978576</data>
+</node>
+<node id="La Crosse">
+  <data key="d0">-91.2514355</data>
+  <data key="d1">43.8122836</data>
+</node>
+<node id="Winona">
+  <data key="d0">-91.7807784</data>
+  <data key="d1">43.9582272</data>
+</node>
+<node id="Red Wing">
+  <data key="d0">-92.5338013</data>
+  <data key="d1">44.5624676</data>
+</node>
+<node id="St. Cloud">
+  <data key="d0">-94.1642004</data>
+  <data key="d1">45.5616075</data>
+</node>
+<node id="Staples">
+  <data key="d0">-97.8364866</data>
+  <data key="d1">29.7814808</data>
+</node>
+<node id="Detroit Lakes">
+  <data key="d0">-95.845325</data>
+  <data key="d1">46.817181</data>
+</node>
+<node id="Fargo">
+  <data key="d0">-96.789821</data>
+  <data key="d1">46.877229</data>
+</node>
+<node id="Grand Forks">
+  <data key="d0">-97.0306741</data>
+  <data key="d1">47.9252042</data>
+</node>
+<node id="Devils Lake">
+  <data key="d0">-98.86512</data>
+  <data key="d1">48.112779</data>
+</node>
+<node id="Rugby">
+  <data key="d0">-99.996246</data>
+  <data key="d1">48.368888</data>
+</node>
+<node id="Minot">
+  <data key="d0">-101.296273</data>
+  <data key="d1">48.23251</data>
+</node>
+<node id="Stanley">
+  <data key="d0">-100.802728</data>
+  <data key="d1">44.4189684</data>
+</node>
+<node id="Williston">
+  <data key="d0">-103.621814</data>
+  <data key="d1">48.1465457</data>
+</node>
+<node id="Wolf Point">
+  <data key="d0">-105.640557</data>
+  <data key="d1">48.090574</data>
+</node>
+<node id="Glasgow">
+  <data key="d0">-85.9124842</data>
+  <data key="d1">36.995906</data>
+</node>
+<node id="Malta">
+  <data key="d0">-73.792926</data>
+  <data key="d1">42.9711708</data>
+</node>
+<node id="Havre">
+  <data key="d0">-109.677802</data>
+  <data key="d1">48.5536972</data>
+</node>
+<node id="Shelby">
+  <data key="d0">-94.1301652</data>
+  <data key="d1">31.7716364</data>
+</node>
+<node id="Cut Bank">
+  <data key="d0">-112.326162</data>
+  <data key="d1">48.63304</data>
+</node>
+<node id="Browning">
+  <data key="d0">-90.3720685</data>
+  <data key="d1">40.1289355</data>
+</node>
+<node id="Essex">
+  <data key="d0">-73.7542043</data>
+  <data key="d1">44.0638879</data>
+</node>
+<node id="West Glacier">
+  <data key="d0">-113.982443</data>
+  <data key="d1">48.4963369</data>
+</node>
+<node id="Whitefish">
+  <data key="d0">-114.334624</data>
+  <data key="d1">48.4108018</data>
+</node>
+<node id="Libby">
+  <data key="d0">-115.5558612</data>
+  <data key="d1">48.3883645</data>
+</node>
+<node id="Sandpoint">
+  <data key="d0">-116.553247</data>
+  <data key="d1">48.2765903</data>
+</node>
+<node id="Spokane">
+  <data key="d0">-117.42351</data>
+  <data key="d1">47.6571934</data>
+</node>
+<node id="Ephrata">
+  <data key="d0">-76.1789242</data>
+  <data key="d1">40.1799111</data>
+</node>
+<node id="Wenatchee">
+  <data key="d0">-120.310349</data>
+  <data key="d1">47.4234599</data>
+</node>
+<node id="Leavenworth">
+  <data key="d0">-95.0620347</data>
+  <data key="d1">39.2147095</data>
+</node>
+<node id="Everett">
+  <data key="d0">-122.2127011</data>
+  <data key="d1">47.9793437</data>
+</node>
+<node id="Edmonds">
+  <data key="d0">-122.3774952</data>
+  <data key="d1">47.8105738</data>
+</node>
+<node id="Seattle King Street">
+  <data key="d0">-122.32960723740504</data>
+  <data key="d1">47.59779635</data>
+</node>
+<node id="Tacoma Dome">
+  <data key="d0">-122.42695224187412</data>
+  <data key="d1">47.236887249999995</data>
+</node>
+<node id="Lacey">
+  <data key="d0">-122.8072257</data>
+  <data key="d1">47.0263876</data>
+</node>
+<node id="Centralia">
+  <data key="d0">-89.1334037</data>
+  <data key="d1">38.5250491</data>
+</node>
+<node id="Kelso">
+  <data key="d0">-122.905299</data>
+  <data key="d1">46.1421249</data>
+</node>
+<node id="Vancouver">
+  <data key="d0">-122.6744557</data>
+  <data key="d1">45.6306954</data>
+</node>
+<node id="Portland">
+  <data key="d0">-122.674194</data>
+  <data key="d1">45.5202471</data>
+</node>
+<node id="Salem">
+  <data key="d0">-123.033121</data>
+  <data key="d1">44.9391565</data>
+</node>
+<node id="Albany">
+  <data key="d0">-73.754968</data>
+  <data key="d1">42.6511674</data>
+</node>
+<node id="Eugene-Springfield">
+  <data key="d0">-123.09253537848451</data>
+  <data key="d1">44.0553238</data>
+</node>
+<node id="Chemult">
+  <data key="d0">-121.7828015</data>
+  <data key="d1">43.2165181</data>
+</node>
+<node id="Klamath Falls">
+  <data key="d0">-121.78167</data>
+  <data key="d1">42.224867</data>
+</node>
+<node id="Dunsmuir">
+  <data key="d0">-122.271953</data>
+  <data key="d1">41.208209</data>
+</node>
+<node id="Redding">
+  <data key="d0">-122.391675</data>
+  <data key="d1">40.5863563</data>
+</node>
+<node id="Chico">
+  <data key="d0">-121.8374777</data>
+  <data key="d1">39.7284945</data>
+</node>
+<node id="Oakland-Jack London Square">
+  <data key="d0">-122.271485</data>
+  <data key="d1">37.7937665</data>
+</node>
+<node id="San Jose Diridon">
+  <data key="d0">-121.902496</data>
+  <data key="d1">37.3299203</data>
+</node>
+<node id="Salinas">
+  <data key="d0">-121.655037</data>
+  <data key="d1">36.6744117</data>
+</node>
+<node id="Paso Robles">
+  <data key="d0">-120.6901319</data>
+  <data key="d1">35.6262618</data>
+</node>
+<node id="San Luis Obispo">
+  <data key="d0">-120.375716</data>
+  <data key="d1">35.3540209</data>
+</node>
+<node id="Santa Barbara">
+  <data key="d0">-119.702667</data>
+  <data key="d1">34.4221319</data>
+</node>
+<node id="Oxnard">
+  <data key="d0">-119.180381</data>
+  <data key="d1">34.1976308</data>
+</node>
+<node id="Simi Valley">
+  <data key="d0">-118.7538071</data>
+  <data key="d1">34.2677404</data>
+</node>
+<node id="Van Nuys">
+  <data key="d0">-118.4486675</data>
+  <data key="d1">34.1866193</data>
+</node>
+<node id="Burbank Airport">
+  <data key="d0">-118.3501816</data>
+  <data key="d1">34.195723</data>
+</node>
+<node id="Newark Penn">
+  <data key="d0">-74.1639563</data>
+  <data key="d1">40.7345985</data>
+</node>
+<node id="Trenton">
+  <data key="d0">-74.7659</data>
+  <data key="d1">40.2203074</data>
+</node>
+<node id="Philadelphia 30th Street">
+  <data key="d0">-75.183485</data>
+  <data key="d1">39.95504425</data>
+</node>
+<node id="Wilmington">
+  <data key="d0">-75.546589</data>
+  <data key="d1">39.7459468</data>
+</node>
+<node id="Baltimore Penn">
+  <data key="d0">-76.6154004</data>
+  <data key="d1">39.3076979</data>
+</node>
+<node id="Washington Union">
+  <data key="d0">-118.281022</data>
+  <data key="d1">34.038321</data>
+</node>
+<node id="Alexandria">
+  <data key="d0">-77.0470229</data>
+  <data key="d1">38.8051095</data>
+</node>
+<node id="Manassas">
+  <data key="d0">-77.4752667</data>
+  <data key="d1">38.7509488</data>
+</node>
+<node id="Culpeper">
+  <data key="d0">-77.9618216</data>
+  <data key="d1">38.4912207</data>
+</node>
+<node id="Charlottesville">
+  <data key="d0">-78.4766781</data>
+  <data key="d1">38.029306</data>
+</node>
+<node id="Lynchburg-Kemper Street">
+  <data key="d0">-79.1570872</data>
+  <data key="d1">37.4064274</data>
+</node>
+<node id="Danville">
+  <data key="d0">-87.6304614</data>
+  <data key="d1">40.125222</data>
+</node>
+<node id="Greensboro">
+  <data key="d0">-79.7919754</data>
+  <data key="d1">36.0726355</data>
+</node>
+<node id="High Point">
+  <data key="d0">-80.0053176</data>
+  <data key="d1">35.9556924</data>
+</node>
+<node id="Salisbury">
+  <data key="d0">-80.4742261</data>
+  <data key="d1">35.6709727</data>
+</node>
+<node id="Charlotte">
+  <data key="d0">-80.8430827</data>
+  <data key="d1">35.2272086</data>
+</node>
+<node id="Gastonia">
+  <data key="d0">-81.1838186</data>
+  <data key="d1">35.2622654</data>
+</node>
+<node id="Spartanburg">
+  <data key="d0">-81.9320157</data>
+  <data key="d1">34.9498007</data>
+</node>
+<node id="Greenville">
+  <data key="d0">-82.3984882</data>
+  <data key="d1">34.851354</data>
+</node>
+<node id="Clemson">
+  <data key="d0">-82.8364111</data>
+  <data key="d1">34.6850749</data>
+</node>
+<node id="Toccoa">
+  <data key="d0">-83.332881</data>
+  <data key="d1">34.5774368</data>
+</node>
+<node id="Gainesville">
+  <data key="d0">-82.3249846</data>
+  <data key="d1">29.6519684</data>
+</node>
+<node id="Atlanta Peachtree">
+  <data key="d0">-84.38680853983689</data>
+  <data key="d1">33.76038705</data>
+</node>
+<node id="Anniston">
+  <data key="d0">-85.8283224</data>
+  <data key="d1">33.6624824</data>
+</node>
+<node id="Birmingham">
+  <data key="d0">-86.8024326</data>
+  <data key="d1">33.5206824</data>
+</node>
+<node id="Tuscaloosa">
+  <data key="d0">-87.5675258</data>
+  <data key="d1">33.2095614</data>
+</node>
+<node id="Laurel">
+  <data key="d0">-84.1148273</data>
+  <data key="d1">37.1000973</data>
+</node>
+<node id="Hattiesburg">
+  <data key="d0">-89.2903392</data>
+  <data key="d1">31.3271189</data>
+</node>
+<node id="Picayune">
+  <data key="d0">-89.6795084</data>
+  <data key="d1">30.5254692</data>
+</node>
+<node id="Slidell">
+  <data key="d0">-89.7811745</data>
+  <data key="d1">30.2751945</data>
+</node>
+<node id="Baltimore Airport">
+  <data key="d0">-76.67075505810189</data>
+  <data key="d1">39.1747196</data>
+</node>
+<node id="Metropark">
+  <data key="d0">-74.3298744</data>
+  <data key="d1">40.5682976</data>
+</node>
+<node id="Joliet">
+  <data key="d0">-88.0840212</data>
+  <data key="d1">41.5263603</data>
+</node>
+<node id="Pontiac">
+  <data key="d0">-83.2910468</data>
+  <data key="d1">42.6389216</data>
+</node>
+<node id="Bloomington-Normal">
+  <data key="d0">-88.9844947</data>
+  <data key="d1">40.508752</data>
+</node>
+<node id="Springfield">
+  <data key="d0">-89.6439575</data>
+  <data key="d1">39.7990175</data>
+</node>
+<node id="Carlinville">
+  <data key="d0">-89.8817662</data>
+  <data key="d1">39.2797699</data>
+</node>
+<node id="Alton">
+  <data key="d0">-90.1843091</data>
+  <data key="d1">38.8908583</data>
+</node>
+<node id="St. Louis Gateway">
+  <data key="d0">-90.20357534362003</data>
+  <data key="d1">38.6243872</data>
+</node>
+<node id="Arcadia Valley">
+  <data key="d0">-90.6243593</data>
+  <data key="d1">37.5922025</data>
+</node>
+<node id="Poplar Bluff">
+  <data key="d0">-90.3957115</data>
+  <data key="d1">36.7568327</data>
+</node>
+<node id="Walnut Ridge">
+  <data key="d0">-90.9561004</data>
+  <data key="d1">36.0680241</data>
+</node>
+<node id="Little Rock">
+  <data key="d0">-92.2896267</data>
+  <data key="d1">34.7465071</data>
+</node>
+<node id="Malvern">
+  <data key="d0">-95.5851939</data>
+  <data key="d1">41.0024095</data>
+</node>
+<node id="Arkadelphia">
+  <data key="d0">-93.053784</data>
+  <data key="d1">34.1209292</data>
+</node>
+<node id="Hope">
+  <data key="d0">-93.5915665</data>
+  <data key="d1">33.6670616</data>
+</node>
+<node id="Texarkana">
+  <data key="d0">-94.07714830522015</data>
+  <data key="d1">33.44667445</data>
+</node>
+<node id="Marshall">
+  <data key="d0">-89.2998456</data>
+  <data key="d1">41.0324537</data>
+</node>
+<node id="Longview">
+  <data key="d0">-94.74049</data>
+  <data key="d1">32.5007031</data>
+</node>
+<node id="Mineola">
+  <data key="d0">-73.6406845</data>
+  <data key="d1">40.7492678</data>
+</node>
+<node id="Dallas">
+  <data key="d0">-96.7968559</data>
+  <data key="d1">32.7762719</data>
+</node>
+<node id="Fort Worth">
+  <data key="d0">-97.3327459</data>
+  <data key="d1">32.753177</data>
+</node>
+<node id="Cleburne">
+  <data key="d0">-92.0312818</data>
+  <data key="d1">35.5298937</data>
+</node>
+<node id="McGregor">
+  <data key="d0">-97.4080875</data>
+  <data key="d1">31.4367029</data>
+</node>
+<node id="Temple">
+  <data key="d0">-97.3427847</data>
+  <data key="d1">31.098207</data>
+</node>
+<node id="Taylor">
+  <data key="d0">-99.8812612</data>
+  <data key="d1">32.2793121</data>
+</node>
+<node id="Austin">
+  <data key="d0">-97.7436995</data>
+  <data key="d1">30.2711286</data>
+</node>
+<node id="San Marcos">
+  <data key="d0">-97.9405828</data>
+  <data key="d1">29.8826436</data>
+</node>
+<node id="Rockville">
+  <data key="d0">-77.1516844</data>
+  <data key="d1">39.0817985</data>
+</node>
+<node id="Harpers Ferry">
+  <data key="d0">-91.1525407</data>
+  <data key="d1">43.2006041</data>
+</node>
+<node id="Martinsburg">
+  <data key="d0">-77.9639604</data>
+  <data key="d1">39.4562528</data>
+</node>
+<node id="Cumberland">
+  <data key="d0">-77.2803933</data>
+  <data key="d1">40.1541581</data>
+</node>
+<node id="Connellsville">
+  <data key="d0">-79.5894828</data>
+  <data key="d1">40.0178522</data>
+</node>
+<node id="Pittsburgh">
+  <data key="d0">-79.9900861</data>
+  <data key="d1">40.4416941</data>
+</node>
+<node id="Alliance">
+  <data key="d0">-102.8707145</data>
+  <data key="d1">42.0971897</data>
+</node>
+<node id="Cleveland">
+  <data key="d0">-81.6936772</data>
+  <data key="d1">41.4996574</data>
+</node>
+<node id="Elyria">
+  <data key="d0">-82.1073583</data>
+  <data key="d1">41.3673191</data>
+</node>
+<node id="Sandusky">
+  <data key="d0">-83.1555438</data>
+  <data key="d1">41.2951563</data>
+</node>
+<node id="Toledo">
+  <data key="d0">-83.5378173</data>
+  <data key="d1">41.6529143</data>
+</node>
+<node id="Waterloo">
+  <data key="d0">-92.3328743</data>
+  <data key="d1">42.498275</data>
+</node>
+<node id="Elkhart">
+  <data key="d0">-85.8590603</data>
+  <data key="d1">41.6012796</data>
+</node>
+<node id="South Bend">
+  <data key="d0">-86.2500066</data>
+  <data key="d1">41.6833813</data>
+</node>
+<node id="Greensburg">
+  <data key="d0">-79.5389289</data>
+  <data key="d1">40.3014581</data>
+</node>
+<node id="Latrobe">
+  <data key="d0">-79.3840301</data>
+  <data key="d1">40.317287</data>
+</node>
+<node id="Johnstown">
+  <data key="d0">-78.9219698</data>
+  <data key="d1">40.3267407</data>
+</node>
+<node id="Altoona">
+  <data key="d0">-78.394736</data>
+  <data key="d1">40.518681</data>
+</node>
+<node id="Tyrone">
+  <data key="d0">-78.2383479</data>
+  <data key="d1">40.6705508</data>
+</node>
+<node id="Huntingdon">
+  <data key="d0">-78.0281185</data>
+  <data key="d1">40.3446332</data>
+</node>
+<node id="Lewistown">
+  <data key="d0">-109.428213</data>
+  <data key="d1">47.0639275</data>
+</node>
+<node id="Harrisburg">
+  <data key="d0">-76.8861122</data>
+  <data key="d1">40.2663107</data>
+</node>
+<node id="Elizabethtown">
+  <data key="d0">-85.8591285</data>
+  <data key="d1">37.693952</data>
+</node>
+<node id="Lancaster">
+  <data key="d0">-76.2411283</data>
+  <data key="d1">40.08067</data>
+</node>
+<node id="Exton">
+  <data key="d0">-75.6207651</data>
+  <data key="d1">40.0289955</data>
+</node>
+<node id="Paoli">
+  <data key="d0">-75.4838685</data>
+  <data key="d1">40.0417847</data>
+</node>
+<node id="Bryan">
+  <data key="d0">-96.3699632</data>
+  <data key="d1">30.6743643</data>
+</node>
+<node id="Erie">
+  <data key="d0">-80.0852695</data>
+  <data key="d1">42.1294712</data>
+</node>
+<node id="Buffalo-Depew">
+  <data key="d0">-78.7265655</data>
+  <data key="d1">42.9071198</data>
+</node>
+<node id="Rochester">
+  <data key="d0">-77.615214</data>
+  <data key="d1">43.157285</data>
+</node>
+<node id="Syracuse">
+  <data key="d0">-76.1474244</data>
+  <data key="d1">43.0481221</data>
+</node>
+<node id="Utica">
+  <data key="d0">-75.2326641</data>
+  <data key="d1">43.1009031</data>
+</node>
+<node id="Schenectady">
+  <data key="d0">-73.9395687</data>
+  <data key="d1">42.8142432</data>
+</node>
+<node id="Albany-Rensselaer">
+  <data key="d0">-73.7412926</data>
+  <data key="d1">42.6412525</data>
+</node>
+<node id="Rhinecliff-Kingston">
+  <data key="d0">-73.9513419</data>
+  <data key="d1">41.921263</data>
+</node>
+<node id="Poughkeepsie">
+  <data key="d0">-73.9283672</data>
+  <data key="d1">41.7065539</data>
+</node>
+<node id="Croton-Harmon">
+  <data key="d0">-73.8826235</data>
+  <data key="d1">41.1898396</data>
+</node>
+<node id="St. Albans">
+  <data key="d0">-81.836241</data>
+  <data key="d1">38.3856488</data>
+</node>
+<node id="Essex Junction">
+  <data key="d0">-73.11136</data>
+  <data key="d1">44.4906817</data>
+</node>
+<node id="Waterbury-Stowe">
+  <data key="d0">-72.7517651</data>
+  <data key="d1">44.3350696</data>
+</node>
+<node id="Montpelier">
+  <data key="d0">-72.5751208</data>
+  <data key="d1">44.2602164</data>
+</node>
+<node id="Randolph">
+  <data key="d0">-89.8107962</data>
+  <data key="d1">38.0472916</data>
+</node>
+<node id="White River Junction">
+  <data key="d0">-72.3193634</data>
+  <data key="d1">43.6488351</data>
+</node>
+<node id="Windsor-Mt. Ascutney">
+  <data key="d0">-72.4543599</data>
+  <data key="d1">43.4437711</data>
+</node>
+<node id="Claremont">
+  <data key="d0">-117.7197785</data>
+  <data key="d1">34.0966764</data>
+</node>
+<node id="Bellows Falls">
+  <data key="d0">-72.444534</data>
+  <data key="d1">43.134063</data>
+</node>
+<node id="Brattleboro">
+  <data key="d0">-72.5572913</data>
+  <data key="d1">42.8507588</data>
+</node>
+<node id="Greenfield">
+  <data key="d0">-72.6002068</data>
+  <data key="d1">42.5876342</data>
+</node>
+<node id="Northampton">
+  <data key="d0">-75.3289302</data>
+  <data key="d1">40.7451356</data>
+</node>
+<node id="Holyoke">
+  <data key="d0">-72.60765</data>
+  <data key="d1">42.2071434</data>
+</node>
+<node id="Windsor Locks">
+  <data key="d0">-72.643631</data>
+  <data key="d1">41.9281305</data>
+</node>
+<node id="Hartford">
+  <data key="d0">-72.6908547</data>
+  <data key="d1">41.764582</data>
+</node>
+<node id="Meriden">
+  <data key="d0">-72.8070435</data>
+  <data key="d1">41.5381535</data>
+</node>
+<node id="New Haven Union">
+  <data key="d0">-72.92654366037542</data>
+  <data key="d1">41.2976052</data>
+</node>
+<node id="Bridgeport">
+  <data key="d0">-73.1887863</data>
+  <data key="d1">41.1792695</data>
+</node>
+<node id="Stamford">
+  <data key="d0">-73.5387341</data>
+  <data key="d1">41.0534302</data>
+</node>
+<node id="Princeton Junction">
+  <data key="d0">-74.6193767968181</data>
+  <data key="d1">40.321428850000004</data>
+</node>
+<node id="New Carrollton">
+  <data key="d0">-76.8799727</data>
+  <data key="d1">38.9698329</data>
+</node>
+<node id="Hammond">
+  <data key="d0">-87.5220108</data>
+  <data key="d1">41.6173959</data>
+</node>
+<node id="McComb">
+  <data key="d0">-90.4531536</data>
+  <data key="d1">31.2437872</data>
+</node>
+<node id="Brookhaven">
+  <data key="d0">-90.4407122</data>
+  <data key="d1">31.5790667</data>
+</node>
+<node id="Hazlehurst">
+  <data key="d0">-82.5943026</data>
+  <data key="d1">31.8696309</data>
+</node>
+<node id="Jackson">
+  <data key="d0">-90.1830408</data>
+  <data key="d1">32.2998686</data>
+</node>
+<node id="Yazoo City">
+  <data key="d0">-90.4146109</data>
+  <data key="d1">32.84569</data>
+</node>
+<node id="Greenwood">
+  <data key="d0">-96.2471338</data>
+  <data key="d1">37.8709542</data>
+</node>
+<node id="Marks">
+  <data key="d0">-90.2720375</data>
+  <data key="d1">34.2565001</data>
+</node>
+<node id="Memphis Central">
+  <data key="d0">-90.0596732</data>
+  <data key="d1">35.1320351</data>
+</node>
+<node id="Newbern-Dyersburg">
+  <data key="d0">-89.262407</data>
+  <data key="d1">36.1125339</data>
+</node>
+<node id="Fulton">
+  <data key="d0">-90.1845556</data>
+  <data key="d1">40.4714305</data>
+</node>
+<node id="Carbondale">
+  <data key="d0">-89.216655</data>
+  <data key="d1">37.7274692</data>
+</node>
+<node id="Effingham">
+  <data key="d0">-88.6029006</data>
+  <data key="d1">39.0520902</data>
+</node>
+<node id="Mattoon">
+  <data key="d0">-88.3773279</data>
+  <data key="d1">39.4842821</data>
+</node>
+<node id="Champaign-Urbana">
+  <data key="d0">-88.241194</data>
+  <data key="d1">40.1157948</data>
+</node>
+<node id="Kankakee">
+  <data key="d0">-87.848682</data>
+  <data key="d1">41.1253903</data>
+</node>
+<node id="Homewood">
+  <data key="d0">-87.6651467</data>
+  <data key="d1">41.5574046</data>
+</node>
+<node id="Yonkers">
+  <data key="d0">-73.8987469</data>
+  <data key="d1">40.9312099</data>
+</node>
+<node id="Hudson">
+  <data key="d0">-74.0550731</data>
+  <data key="d1">40.7381635</data>
+</node>
+<node id="Amsterdam">
+  <data key="d0">-74.1850436</data>
+  <data key="d1">42.943367</data>
+</node>
+<node id="Rome">
+  <data key="d0">-75.4557304</data>
+  <data key="d1">43.2128473</data>
+</node>
+<node id="Buffalo-Exchange Street">
+  <data key="d0">-78.8738606</data>
+  <data key="d1">42.8782621</data>
+</node>
+<node id="Niagara Falls">
+  <data key="d0">-79.0614686</data>
+  <data key="d1">43.08436</data>
+</node>
+<node id="Toronto Union">
+  <data key="d0">-80.61040263177645</data>
+  <data key="d1">40.4662618</data>
+</node>
+<node id="Roanoke">
+  <data key="d0">-79.9414313</data>
+  <data key="d1">37.270973</data>
+</node>
+<node id="New Rochelle">
+  <data key="d0">-73.7826363</data>
+  <data key="d1">40.9115386</data>
+</node>
+<node id="Old Saybrook">
+  <data key="d0">-72.3761956</data>
+  <data key="d1">41.2917652</data>
+</node>
+<node id="New London">
+  <data key="d0">-72.0997804</data>
+  <data key="d1">41.3556187</data>
+</node>
+<node id="Mystic">
+  <data key="d0">-92.9453445</data>
+  <data key="d1">40.7776709</data>
+</node>
+<node id="Westerly">
+  <data key="d0">-71.8272911</data>
+  <data key="d1">41.3775996</data>
+</node>
+<node id="Kingston">
+  <data key="d0">-74.0023702</data>
+  <data key="d1">41.9287812</data>
+</node>
+<node id="Providence">
+  <data key="d0">-71.4128343</data>
+  <data key="d1">41.8239891</data>
+</node>
+<node id="Westwood-Route 128">
+  <data key="d0">-71.1475387</data>
+  <data key="d1">42.2104244</data>
+</node>
+<node id="Boston Back Bay">
+  <data key="d0">-71.0749406</data>
+  <data key="d1">42.3473297</data>
+</node>
+<node id="Boston South">
+  <data key="d0">-71.0551533</data>
+  <data key="d1">42.3515458</data>
+</node>
+<node id="Montreal">
+  <data key="d0">-92.5921247</data>
+  <data key="d1">37.9689254</data>
+</node>
+<node id="Saint-Lambert">
+  <data key="d0">-71.45759620986826</data>
+  <data key="d1">43.517993000000004</data>
+</node>
+<node id="Rouses Point">
+  <data key="d0">-73.364983</data>
+  <data key="d1">44.99394</data>
+</node>
+<node id="Plattsburgh">
+  <data key="d0">-73.45562</data>
+  <data key="d1">44.69282</data>
+</node>
+<node id="Westport">
+  <data key="d0">-73.3578955</data>
+  <data key="d1">41.1414855</data>
+</node>
+<node id="Port Henry">
+  <data key="d0">-73.45974</data>
+  <data key="d1">44.048609</data>
+</node>
+<node id="Ticonderoga">
+  <data key="d0">-73.4232317</data>
+  <data key="d1">43.8487795</data>
+</node>
+<node id="Whitehall">
+  <data key="d0">-75.50746464724347</data>
+  <data key="d1">40.657478049999995</data>
+</node>
+<node id="Fort Edward">
+  <data key="d0">-73.584709</data>
+  <data key="d1">43.267206</data>
+</node>
+<node id="Saratoga Springs">
+  <data key="d0">-73.7853915</data>
+  <data key="d1">43.0821793</data>
+</node>
+<node id="Kannapolis">
+  <data key="d0">-80.621438</data>
+  <data key="d1">35.4874708</data>
+</node>
+<node id="Durham">
+  <data key="d0">-78.9018053</data>
+  <data key="d1">35.996653</data>
+</node>
+<node id="Cary">
+  <data key="d0">-78.7812081</data>
+  <data key="d1">35.7882893</data>
+</node>
+<node id="Raleigh Union">
+  <data key="d0">-88.0594761</data>
+  <data key="d1">37.7278228</data>
+</node>
+<node id="Quantico">
+  <data key="d0">-77.2911023</data>
+  <data key="d1">38.5218802</data>
+</node>
+<node id="Fredericksburg">
+  <data key="d0">-77.4605399</data>
+  <data key="d1">38.3031837</data>
+</node>
+<node id="Richmond Staples Mill Road">
+  <data key="d0">-77.4968518</data>
+  <data key="d1">37.6178157</data>
+</node>
+<node id="Petersburg">
+  <data key="d0">-77.4019268</data>
+  <data key="d1">37.227928</data>
+</node>
+<node id="Rocky Mount">
+  <data key="d0">-77.7956949</data>
+  <data key="d1">35.9423833</data>
+</node>
+<node id="Wilson">
+  <data key="d0">-98.1251465</data>
+  <data key="d1">29.1589961</data>
+</node>
+<node id="Selma">
+  <data key="d0">-87.0207473</data>
+  <data key="d1">32.4078632</data>
+</node>
+<node id="Aberdeen">
+  <data key="d0">-123.815722</data>
+  <data key="d1">46.975371</data>
+</node>
+<node id="Woodbridge">
+  <data key="d0">-77.2497049</data>
+  <data key="d1">38.6581723</data>
+</node>
+<node id="Ashland">
+  <data key="d0">-82.2360391</data>
+  <data key="d1">40.7887367</data>
+</node>
+<node id="Richmond Main Street">
+  <data key="d0">-77.4294147</data>
+  <data key="d1">37.5343039</data>
+</node>
+<node id="Fayetteville">
+  <data key="d0">-94.1574328</data>
+  <data key="d1">36.0625843</data>
+</node>
+<node id="Dillon">
+  <data key="d0">-79.3864339</data>
+  <data key="d1">34.4014089</data>
+</node>
+<node id="Florence">
+  <data key="d0">-87.677251</data>
+  <data key="d1">34.79981</data>
+</node>
+<node id="Kingstree">
+  <data key="d0">-79.8306265</data>
+  <data key="d1">33.6676643</data>
+</node>
+<node id="Charleston">
+  <data key="d0">-79.9399309</data>
+  <data key="d1">32.7884363</data>
+</node>
+<node id="Yemassee">
+  <data key="d0">-80.8511281</data>
+  <data key="d1">32.6967679</data>
+</node>
+<node id="Savannah">
+  <data key="d0">-81.0921335</data>
+  <data key="d1">32.0790074</data>
+</node>
+<node id="Southern Pines">
+  <data key="d0">-79.3922539</data>
+  <data key="d1">35.1740471</data>
+</node>
+<node id="Hamlet">
+  <data key="d0">-86.5825056</data>
+  <data key="d1">41.380917</data>
+</node>
+<node id="Camden">
+  <data key="d0">-75.1198911</data>
+  <data key="d1">39.9448402</data>
+</node>
+<node id="Columbia">
+  <data key="d0">-81.0331309</data>
+  <data key="d1">34.0003117</data>
+</node>
+<node id="Denmark">
+  <data key="d0">-75.582504</data>
+  <data key="d1">43.899871</data>
+</node>
+<node id="Jacksonville">
+  <data key="d0">-81.655651</data>
+  <data key="d1">30.3321838</data>
+</node>
+<node id="Palatka">
+  <data key="d0">-81.6372111</data>
+  <data key="d1">29.6487882</data>
+</node>
+<node id="DeLand">
+  <data key="d0">-81.3031098</data>
+  <data key="d1">29.0283213</data>
+</node>
+<node id="Winter Park">
+  <data key="d0">-81.34274384364849</data>
+  <data key="d1">28.6000625</data>
+</node>
+<node id="Orlando">
+  <data key="d0">-81.3790304</data>
+  <data key="d1">28.5421109</data>
+</node>
+<node id="Kissimmee">
+  <data key="d0">-81.4075838</data>
+  <data key="d1">28.2918995</data>
+</node>
+<node id="Lakeland">
+  <data key="d0">-81.9498042</data>
+  <data key="d1">28.0394654</data>
+</node>
+<node id="Tampa">
+  <data key="d0">-82.458444</data>
+  <data key="d1">27.9477595</data>
+</node>
+<node id="Winter Haven">
+  <data key="d0">-81.7328568</data>
+  <data key="d1">28.0222435</data>
+</node>
+<node id="Sebring">
+  <data key="d0">-81.4410425</data>
+  <data key="d1">27.4957453</data>
+</node>
+<node id="Okeechobee">
+  <data key="d0">-80.8873655</data>
+  <data key="d1">27.3923408</data>
+</node>
+<node id="West Palm Beach">
+  <data key="d0">-80.0532942</data>
+  <data key="d1">26.715364</data>
+</node>
+<node id="Delray Beach">
+  <data key="d0">-80.0728201</data>
+  <data key="d1">26.4614625</data>
+</node>
+<node id="Deerfield Beach">
+  <data key="d0">-80.0996306</data>
+  <data key="d1">26.318342</data>
+</node>
+<node id="Fort Lauderdale">
+  <data key="d0">-80.1433786</data>
+  <data key="d1">26.1223084</data>
+</node>
+<node id="Hollywood">
+  <data key="d0">-118.329523</data>
+  <data key="d1">34.0980031</data>
+</node>
+<node id="Miami">
+  <data key="d0">-80.19362</data>
+  <data key="d1">25.7741728</data>
+</node>
+<node id="Norfolk">
+  <data key="d0">-76.2863999</data>
+  <data key="d1">36.8448348</data>
+</node>
+<node id="Newark Airport">
+  <data key="d0">-74.17725485035348</data>
+  <data key="d1">40.68906405</data>
+</node>
+<node id="Jesup">
+  <data key="d0">-92.0632129</data>
+  <data key="d1">42.4750516</data>
+</node>
+<node id="Windsor">
+  <data key="d0">-122.8163802</data>
+  <data key="d1">38.5471327</data>
+</node>
+<node id="Berlin">
+  <data key="d0">-71.1836547</data>
+  <data key="d1">44.4688795</data>
+</node>
+<node id="Wallingford">
+  <data key="d0">-94.7941849</data>
+  <data key="d1">43.3198279</data>
+</node>
+<node id="New Haven State Street">
+  <data key="d0">-72.9220124</data>
+  <data key="d1">41.3051853</data>
+</node>
+<node id="Newark">
+  <data key="d0">-74.1723667</data>
+  <data key="d1">40.735657</data>
+</node>
+<node id="Williamsburg">
+  <data key="d0">-76.7074042</data>
+  <data key="d1">37.2708788</data>
+</node>
+<node id="Newport News">
+  <data key="d0">-76.5213892</data>
+  <data key="d1">37.0914429</data>
+</node>
+<node id="New Brunswick">
+  <data key="d0">-74.4518173</data>
+  <data key="d1">40.4862174</data>
+</node>
+<node id="Burke Centre">
+  <data key="d0">-77.300519</data>
+  <data key="d1">38.7909918</data>
+</node>
+<node id="Ferrisburgh-Vergennes">
+  <data key="d0">-73.2488641</data>
+  <data key="d1">44.1809102</data>
+</node>
+<node id="Middlebury">
+  <data key="d0">-73.16330105415423</data>
+  <data key="d1">44.007273600000005</data>
+</node>
+<node id="Rutland">
+  <data key="d0">-72.9724768</data>
+  <data key="d1">43.6084792</data>
+</node>
+<node id="Castleton">
+  <data key="d0">-76.2147417</data>
+  <data key="d1">39.6748214</data>
+</node>
+<node id="Independence">
+  <data key="d0">-94.4137923</data>
+  <data key="d1">39.0924792</data>
+</node>
+<node id="Lee's Summit">
+  <data key="d0">-94.3821295</data>
+  <data key="d1">38.9107156</data>
+</node>
+<node id="Warrensburg">
+  <data key="d0">-93.7409596</data>
+  <data key="d1">38.7624373</data>
+</node>
+<node id="Sedalia">
+  <data key="d0">-93.2295515</data>
+  <data key="d1">38.7098314</data>
+</node>
+<node id="Jefferson City">
+  <data key="d0">-92.1724265</data>
+  <data key="d1">38.577359</data>
+</node>
+<node id="Hermann">
+  <data key="d0">-91.4373845</data>
+  <data key="d1">38.7042119</data>
+</node>
+<node id="Washington">
+  <data key="d0">-77.0365427</data>
+  <data key="d1">38.8950368</data>
+</node>
+<node id="Kirkwood">
+  <data key="d0">-90.4069177</data>
+  <data key="d1">38.5800713</data>
+</node>
+<node id="Dwight">
+  <data key="d0">-88.4250597</data>
+  <data key="d1">41.0944767</data>
+</node>
+<node id="Summit">
+  <data key="d0">-81.5333603</data>
+  <data key="d1">41.1457902</data>
+</node>
+<node id="Sturtevant">
+  <data key="d0">-87.8945229</data>
+  <data key="d1">42.6980749</data>
+</node>
+<node id="Milwaukee Airport">
+  <data key="d0">-87.9249666652141</data>
+  <data key="d1">42.939955100000006</data>
+</node>
+<node id="New Buffalo">
+  <data key="d0">-86.7444526</data>
+  <data key="d1">41.7952562</data>
+</node>
+<node id="Niles">
+  <data key="d0">-87.8122348</data>
+  <data key="d1">42.0289319</data>
+</node>
+<node id="Kalamazoo">
+  <data key="d0">-85.5872286</data>
+  <data key="d1">42.291707</data>
+</node>
+<node id="Battle Creek">
+  <data key="d0">-85.1824269</data>
+  <data key="d1">42.3192548</data>
+</node>
+<node id="Ann Arbor">
+  <data key="d0">-83.7484616</data>
+  <data key="d1">42.2813722</data>
+</node>
+<node id="Dearborn">
+  <data key="d0">-83.1763145</data>
+  <data key="d1">42.3222599</data>
+</node>
+<node id="Detroit">
+  <data key="d0">-83.0466403</data>
+  <data key="d1">42.3315509</data>
+</node>
+<node id="Royal Oak">
+  <data key="d0">-83.1446485</data>
+  <data key="d1">42.4894801</data>
+</node>
+<node id="Troy">
+  <data key="d0">-73.6917878</data>
+  <data key="d1">42.7284117</data>
+</node>
+<node id="Pittsfield">
+  <data key="d0">-73.260018</data>
+  <data key="d1">42.451302</data>
+</node>
+<node id="Worcester">
+  <data key="d0">-71.8018877</data>
+  <data key="d1">42.2625621</data>
+</node>
+<node id="Framingham">
+  <data key="d0">-71.4165905</data>
+  <data key="d1">42.2773177</data>
+</node>
+<node id="Oregon City">
+  <data key="d0">-122.606758</data>
+  <data key="d1">45.3573429</data>
+</node>
+<node id="Tukwila">
+  <data key="d0">-122.2559156</data>
+  <data key="d1">47.4627356</data>
+</node>
+<node id="Stanwood">
+  <data key="d0">-91.1502842</data>
+  <data key="d1">41.8927197</data>
+</node>
+<node id="Mount Vernon">
+  <data key="d0">-88.9031201</data>
+  <data key="d1">38.3172715</data>
+</node>
+<node id="Bellingham Fairhaven">
+  <data key="d0">-122.511263</data>
+  <data key="d1">48.7204166</data>
+</node>
+<node id="Santa Clara">
+  <data key="d0">-121.6846349</data>
+  <data key="d1">37.2333253</data>
+</node>
+<node id="Santa Clara - Great America">
+  <data key="d0">-121.9668715</data>
+  <data key="d1">37.4066163</data>
+</node>
+<node id="Fremont">
+  <data key="d0">-121.988571</data>
+  <data key="d1">37.5482697</data>
+</node>
+<node id="Hayward">
+  <data key="d0">-122.080796</data>
+  <data key="d1">37.6688205</data>
+</node>
+<node id="Oakland Coliseum">
+  <data key="d0">-122.1972051</data>
+  <data key="d1">37.7539702</data>
+</node>
+<node id="Berkeley">
+  <data key="d0">-122.272863</data>
+  <data key="d1">37.8708393</data>
+</node>
+<node id="Suisun-Fairfield">
+  <data key="d0">-122.0412129</data>
+  <data key="d1">38.2434457</data>
+</node>
+<node id="Fairfield-Vacaville">
+  <data key="d0">-121.9666818</data>
+  <data key="d1">38.286059</data>
+</node>
+<node id="Downingtown">
+  <data key="d0">-75.7032742</data>
+  <data key="d1">40.0064958</data>
+</node>
+<node id="Coatesville">
+  <data key="d0">-75.8238355</data>
+  <data key="d1">39.9831616</data>
+</node>
+<node id="Parkesburg">
+  <data key="d0">-75.9193928</data>
+  <data key="d1">39.9587161</data>
+</node>
+<node id="Mount Joy">
+  <data key="d0">-76.5033406</data>
+  <data key="d1">40.1098561</data>
+</node>
+<node id="Middletown">
+  <data key="d0">-72.6509061</data>
+  <data key="d1">41.5623178</data>
+</node>
+<node id="Cornwells Heights">
+  <data key="d0">-74.9487791</data>
+  <data key="d1">40.0767776</data>
+</node>
+<node id="Philadelphia North">
+  <data key="d0">-75.1552656</data>
+  <data key="d1">39.9972609</data>
+</node>
+<node id="Ardmore">
+  <data key="d0">-97.1309119</data>
+  <data key="d1">34.1729273</data>
+</node>
+<node id="Boston North">
+  <data key="d0">-71.0622845</data>
+  <data key="d1">42.3662875</data>
+</node>
+<node id="Woburn-Anderson">
+  <data key="d0">-71.144544</data>
+  <data key="d1">42.5171934</data>
+</node>
+<node id="Haverhill">
+  <data key="d0">-71.0767724</data>
+  <data key="d1">42.7777829</data>
+</node>
+<node id="Exeter">
+  <data key="d0">-70.9478343</data>
+  <data key="d1">42.981477</data>
+</node>
+<node id="Durham-UNH">
+  <data key="d0">-70.9362886</data>
+  <data key="d1">43.1391032</data>
+</node>
+<node id="Dover">
+  <data key="d0">-75.5243682</data>
+  <data key="d1">39.158168</data>
+</node>
+<node id="Wells">
+  <data key="d0">-85.2116102</data>
+  <data key="d1">40.7013353</data>
+</node>
+<node id="Saco-Biddeford">
+  <data key="d0">-70.4544359</data>
+  <data key="d1">43.4950691</data>
+</node>
+<node id="Freeport">
+  <data key="d0">-89.6212271</data>
+  <data key="d1">42.2966861</data>
+</node>
+<node id="Brunswick">
+  <data key="d0">-78.1914215</data>
+  <data key="d1">34.0718195</data>
+</node>
+<node id="Lodi">
+  <data key="d0">-121.27953470642757</data>
+  <data key="d1">38.12473865</data>
+</node>
+<node id="Stockton Downtown">
+  <data key="d0">-121.2789046</data>
+  <data key="d1">37.957057</data>
+</node>
+<node id="Modesto">
+  <data key="d0">-120.996878</data>
+  <data key="d1">37.6390972</data>
+</node>
+<node id="Turlock-Denair">
+  <data key="d0">-120.7981035</data>
+  <data key="d1">37.5272793</data>
+</node>
+<node id="Merced">
+  <data key="d0">-120.7678602</data>
+  <data key="d1">37.1641544</data>
+</node>
+<node id="Madera">
+  <data key="d0">-119.7737991</data>
+  <data key="d1">37.1716264</data>
+</node>
+<node id="Fresno">
+  <data key="d0">-119.70886126075588</data>
+  <data key="d1">36.7295295</data>
+</node>
+<node id="Hanford">
+  <data key="d0">-119.6456844</data>
+  <data key="d1">36.3274502</data>
+</node>
+<node id="Corcoran">
+  <data key="d0">-119.5603728</data>
+  <data key="d1">36.0981045</data>
+</node>
+<node id="Wasco">
+  <data key="d0">-121.2154207</data>
+  <data key="d1">45.0430227</data>
+</node>
+<node id="Bakersfield">
+  <data key="d0">-119.019463</data>
+  <data key="d1">35.3738712</data>
+</node>
+<node id="Antioch-Pittsburg">
+  <data key="d0">-121.8162185</data>
+  <data key="d1">38.0177934</data>
+</node>
+<node id="Stockton San Joaquin Street">
+  <data key="d0">-121.2855571</data>
+  <data key="d1">37.9452819</data>
+</node>
+<node id="San Juan Capistrano">
+  <data key="d0">-117.6625509</data>
+  <data key="d1">33.5016932</data>
+</node>
+<node id="Irvine">
+  <data key="d0">-117.825981</data>
+  <data key="d1">33.6856969</data>
+</node>
+<node id="Santa Ana">
+  <data key="d0">-117.873221</data>
+  <data key="d1">33.7494951</data>
+</node>
+<node id="Anaheim">
+  <data key="d0">-117.911732</data>
+  <data key="d1">33.8347516</data>
+</node>
+<node id="Glendale">
+  <data key="d0">-118.2478471</data>
+  <data key="d1">34.1469416</data>
+</node>
+<node id="Chatsworth">
+  <data key="d0">-96.5159408</data>
+  <data key="d1">42.9156667</data>
+</node>
+<node id="Moorpark">
+  <data key="d0">-118.8820414</data>
+  <data key="d1">34.285558</data>
+</node>
+<node id="Camarillo">
+  <data key="d0">-119.0383541</data>
+  <data key="d1">34.2176371</data>
+</node>
+<node id="Ventura">
+  <data key="d0">-119.0779359</data>
+  <data key="d1">34.4458248</data>
+</node>
+<node id="Carpinteria">
+  <data key="d0">-119.5184564</data>
+  <data key="d1">34.3988838</data>
+</node>
+<node id="Goleta">
+  <data key="d0">-119.8276389</data>
+  <data key="d1">34.4358295</data>
+</node>
+<node id="Grover Beach">
+  <data key="d0">-120.621837</data>
+  <data key="d1">35.1209452</data>
+</node>
+<node id="Guadalupe">
+  <data key="d0">-97.8279576</data>
+  <data key="d1">29.6480061</data>
+</node>
+<node id="Lompoc-Surf">
+  <data key="d0">-120.6050676</data>
+  <data key="d1">34.6825853</data>
+</node>
+<node id="Burbank">
+  <data key="d0">-118.307201</data>
+  <data key="d1">34.1812089</data>
+</node>
+<node id="Northridge">
+  <data key="d0">-118.5369316</data>
+  <data key="d1">34.2345615</data>
+</node>
+<node id="St. Paul - Minneapolis Union"/>
+<node id="New York Penn"/>
+<node id="Meridian"/>
+<node id="Vancouver Pacific Central"/>
+<edge source="New Orleans" target="Schriever">
+  <data key="d2">2</data>
+</edge>
+<edge source="New Orleans" target="Slidell">
+  <data key="d2">2</data>
+</edge>
+<edge source="New Orleans" target="Hammond">
+  <data key="d2">1</data>
+</edge>
+<edge source="Schriever" target="New Iberia">
+  <data key="d2">2</data>
+</edge>
+<edge source="New Iberia" target="Lafayette">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lafayette" target="Lake Charles">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lake Charles" target="Beaumont">
+  <data key="d2">2</data>
+</edge>
+<edge source="Beaumont" target="Houston">
+  <data key="d2">2</data>
+</edge>
+<edge source="Houston" target="San Antonio">
+  <data key="d2">2</data>
+</edge>
+<edge source="San Antonio" target="Del Rio">
+  <data key="d2">2</data>
+</edge>
+<edge source="San Antonio" target="San Marcos">
+  <data key="d2">2</data>
+</edge>
+<edge source="Del Rio" target="Sanderson">
+  <data key="d2">2</data>
+</edge>
+<edge source="Sanderson" target="Alpine">
+  <data key="d2">2</data>
+</edge>
+<edge source="Alpine" target="El Paso">
+  <data key="d2">2</data>
+</edge>
+<edge source="El Paso" target="Deming">
+  <data key="d2">2</data>
+</edge>
+<edge source="Deming" target="Lordsburg">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lordsburg" target="Benson">
+  <data key="d2">2</data>
+</edge>
+<edge source="Benson" target="Tucson">
+  <data key="d2">2</data>
+</edge>
+<edge source="Tucson" target="Maricopa">
+  <data key="d2">2</data>
+</edge>
+<edge source="Maricopa" target="Yuma">
+  <data key="d2">2</data>
+</edge>
+<edge source="Yuma" target="Palm Springs">
+  <data key="d2">2</data>
+</edge>
+<edge source="Palm Springs" target="Ontario">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ontario" target="Pomona">
+  <data key="d2">2</data>
+</edge>
+<edge source="Pomona" target="Los Angeles Union">
+  <data key="d2">2</data>
+</edge>
+<edge source="Los Angeles Union" target="Fullerton">
+  <data key="d2">6</data>
+</edge>
+<edge source="Los Angeles Union" target="Burbank Airport">
+  <data key="d2">1</data>
+</edge>
+<edge source="Los Angeles Union" target="Van Nuys">
+  <data key="d2">1</data>
+</edge>
+<edge source="Los Angeles Union" target="Glendale">
+  <data key="d2">4</data>
+</edge>
+<edge source="Chicago Union" target="Naperville">
+  <data key="d2">3</data>
+</edge>
+<edge source="Chicago Union" target="Glenview">
+  <data key="d2">4</data>
+</edge>
+<edge source="Chicago Union" target="Joliet">
+  <data key="d2">2</data>
+</edge>
+<edge source="Chicago Union" target="South Bend">
+  <data key="d2">3</data>
+</edge>
+<edge source="Chicago Union" target="Homewood">
+  <data key="d2">1</data>
+</edge>
+<edge source="Chicago Union" target="Summit">
+  <data key="d2">2</data>
+</edge>
+<edge source="Chicago Union" target="New Buffalo">
+  <data key="d2">1</data>
+</edge>
+<edge source="Naperville" target="Mendota">
+  <data key="d2">2</data>
+</edge>
+<edge source="Naperville" target="Princeton">
+  <data key="d2">1</data>
+</edge>
+<edge source="Mendota" target="Princeton">
+  <data key="d2">2</data>
+</edge>
+<edge source="Princeton" target="Galesburg">
+  <data key="d2">3</data>
+</edge>
+<edge source="Galesburg" target="Fort Madison">
+  <data key="d2">2</data>
+</edge>
+<edge source="Galesburg" target="Burlington">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fort Madison" target="La Plata">
+  <data key="d2">2</data>
+</edge>
+<edge source="La Plata" target="Kansas City">
+  <data key="d2">2</data>
+</edge>
+<edge source="Kansas City" target="Lawrence">
+  <data key="d2">2</data>
+</edge>
+<edge source="Kansas City" target="Independence">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lawrence" target="Topeka">
+  <data key="d2">2</data>
+</edge>
+<edge source="Topeka" target="Newton">
+  <data key="d2">2</data>
+</edge>
+<edge source="Newton" target="Hutchinson">
+  <data key="d2">2</data>
+</edge>
+<edge source="Hutchinson" target="Dodge City">
+  <data key="d2">2</data>
+</edge>
+<edge source="Dodge City" target="Garden City">
+  <data key="d2">2</data>
+</edge>
+<edge source="Garden City" target="Lamar">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lamar" target="La Junta">
+  <data key="d2">2</data>
+</edge>
+<edge source="La Junta" target="Trinidad">
+  <data key="d2">2</data>
+</edge>
+<edge source="Trinidad" target="Raton">
+  <data key="d2">2</data>
+</edge>
+<edge source="Raton" target="Las Vegas">
+  <data key="d2">2</data>
+</edge>
+<edge source="Las Vegas" target="Lamy">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lamy" target="Albuquerque">
+  <data key="d2">2</data>
+</edge>
+<edge source="Albuquerque" target="Gallup">
+  <data key="d2">2</data>
+</edge>
+<edge source="Gallup" target="Winslow">
+  <data key="d2">2</data>
+</edge>
+<edge source="Winslow" target="Flagstaff">
+  <data key="d2">2</data>
+</edge>
+<edge source="Flagstaff" target="Kingman">
+  <data key="d2">2</data>
+</edge>
+<edge source="Kingman" target="Needles">
+  <data key="d2">2</data>
+</edge>
+<edge source="Needles" target="Barstow">
+  <data key="d2">2</data>
+</edge>
+<edge source="Barstow" target="Victorville">
+  <data key="d2">2</data>
+</edge>
+<edge source="Victorville" target="San Bernardino">
+  <data key="d2">2</data>
+</edge>
+<edge source="San Bernardino" target="Riverside">
+  <data key="d2">2</data>
+</edge>
+<edge source="Riverside" target="Fullerton">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fullerton" target="Anaheim">
+  <data key="d2">4</data>
+</edge>
+<edge source="Burlington" target="Mount Pleasant">
+  <data key="d2">1</data>
+</edge>
+<edge source="Burlington" target="Greensboro">
+  <data key="d2">5</data>
+</edge>
+<edge source="Burlington" target="Durham">
+  <data key="d2">5</data>
+</edge>
+<edge source="Burlington" target="Ferrisburgh-Vergennes">
+  <data key="d2">2</data>
+</edge>
+<edge source="Mount Pleasant" target="Ottumwa">
+  <data key="d2">1</data>
+</edge>
+<edge source="Ottumwa" target="Osceola">
+  <data key="d2">1</data>
+</edge>
+<edge source="Osceola" target="Creston">
+  <data key="d2">1</data>
+</edge>
+<edge source="Creston" target="Omaha">
+  <data key="d2">1</data>
+</edge>
+<edge source="Omaha" target="Lincoln">
+  <data key="d2">1</data>
+</edge>
+<edge source="Lincoln" target="Hastings">
+  <data key="d2">1</data>
+</edge>
+<edge source="Lincoln" target="Bloomington-Normal">
+  <data key="d2">4</data>
+</edge>
+<edge source="Lincoln" target="Springfield">
+  <data key="d2">4</data>
+</edge>
+<edge source="Hastings" target="Holdrege">
+  <data key="d2">1</data>
+</edge>
+<edge source="Holdrege" target="McCook">
+  <data key="d2">1</data>
+</edge>
+<edge source="McCook" target="Fort Morgan">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fort Morgan" target="Denver">
+  <data key="d2">1</data>
+</edge>
+<edge source="Denver" target="Fraser-Winter Park">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fraser-Winter Park" target="Granby">
+  <data key="d2">1</data>
+</edge>
+<edge source="Granby" target="Glenwood Springs">
+  <data key="d2">1</data>
+</edge>
+<edge source="Glenwood Springs" target="Grand Junction">
+  <data key="d2">1</data>
+</edge>
+<edge source="Grand Junction" target="Green River">
+  <data key="d2">1</data>
+</edge>
+<edge source="Green River" target="Helper">
+  <data key="d2">1</data>
+</edge>
+<edge source="Helper" target="Provo">
+  <data key="d2">1</data>
+</edge>
+<edge source="Provo" target="Salt Lake City">
+  <data key="d2">1</data>
+</edge>
+<edge source="Salt Lake City" target="Elko">
+  <data key="d2">1</data>
+</edge>
+<edge source="Elko" target="Winnemucca">
+  <data key="d2">1</data>
+</edge>
+<edge source="Winnemucca" target="Reno">
+  <data key="d2">1</data>
+</edge>
+<edge source="Reno" target="Truckee">
+  <data key="d2">1</data>
+</edge>
+<edge source="Truckee" target="Colfax">
+  <data key="d2">1</data>
+</edge>
+<edge source="Colfax" target="Roseville">
+  <data key="d2">1</data>
+</edge>
+<edge source="Roseville" target="Sacramento">
+  <data key="d2">1</data>
+</edge>
+<edge source="Sacramento" target="Davis">
+  <data key="d2">5</data>
+</edge>
+<edge source="Sacramento" target="Chico">
+  <data key="d2">2</data>
+</edge>
+<edge source="Sacramento" target="Lodi">
+  <data key="d2">1</data>
+</edge>
+<edge source="Davis" target="Martinez">
+  <data key="d2">3</data>
+</edge>
+<edge source="Davis" target="Fairfield-Vacaville">
+  <data key="d2">2</data>
+</edge>
+<edge source="Martinez" target="Richmond">
+  <data key="d2">9</data>
+</edge>
+<edge source="Martinez" target="Emeryville">
+  <data key="d2">2</data>
+</edge>
+<edge source="Martinez" target="Suisun-Fairfield">
+  <data key="d2">2</data>
+</edge>
+<edge source="Martinez" target="Antioch-Pittsburg">
+  <data key="d2">6</data>
+</edge>
+<edge source="Richmond" target="Emeryville">
+  <data key="d2">7</data>
+</edge>
+<edge source="Richmond" target="Berkeley">
+  <data key="d2">2</data>
+</edge>
+<edge source="Emeryville" target="Oakland-Jack London Square">
+  <data key="d2">10</data>
+</edge>
+<edge source="Emeryville" target="Berkeley">
+  <data key="d2">2</data>
+</edge>
+<edge source="Glenview" target="Milwaukee">
+  <data key="d2">2</data>
+</edge>
+<edge source="Glenview" target="Sturtevant">
+  <data key="d2">2</data>
+</edge>
+<edge source="Milwaukee" target="Columbus">
+  <data key="d2">2</data>
+</edge>
+<edge source="Milwaukee" target="Milwaukee Airport">
+  <data key="d2">2</data>
+</edge>
+<edge source="Columbus" target="Portage">
+  <data key="d2">2</data>
+</edge>
+<edge source="Portage" target="Wisconsin Dells">
+  <data key="d2">2</data>
+</edge>
+<edge source="Wisconsin Dells" target="Tomah">
+  <data key="d2">2</data>
+</edge>
+<edge source="Tomah" target="La Crosse">
+  <data key="d2">2</data>
+</edge>
+<edge source="La Crosse" target="Winona">
+  <data key="d2">2</data>
+</edge>
+<edge source="Winona" target="Red Wing">
+  <data key="d2">2</data>
+</edge>
+<edge source="Red Wing" target="St. Paul - Minneapolis Union">
+  <data key="d2">2</data>
+</edge>
+<edge source="St. Cloud" target="St. Paul - Minneapolis Union">
+  <data key="d2">2</data>
+</edge>
+<edge source="St. Cloud" target="Staples">
+  <data key="d2">2</data>
+</edge>
+<edge source="Staples" target="Detroit Lakes">
+  <data key="d2">2</data>
+</edge>
+<edge source="Detroit Lakes" target="Fargo">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fargo" target="Grand Forks">
+  <data key="d2">2</data>
+</edge>
+<edge source="Grand Forks" target="Devils Lake">
+  <data key="d2">2</data>
+</edge>
+<edge source="Devils Lake" target="Rugby">
+  <data key="d2">2</data>
+</edge>
+<edge source="Rugby" target="Minot">
+  <data key="d2">2</data>
+</edge>
+<edge source="Minot" target="Stanley">
+  <data key="d2">2</data>
+</edge>
+<edge source="Stanley" target="Williston">
+  <data key="d2">2</data>
+</edge>
+<edge source="Williston" target="Wolf Point">
+  <data key="d2">2</data>
+</edge>
+<edge source="Wolf Point" target="Glasgow">
+  <data key="d2">2</data>
+</edge>
+<edge source="Glasgow" target="Malta">
+  <data key="d2">2</data>
+</edge>
+<edge source="Malta" target="Havre">
+  <data key="d2">2</data>
+</edge>
+<edge source="Havre" target="Shelby">
+  <data key="d2">2</data>
+</edge>
+<edge source="Shelby" target="Cut Bank">
+  <data key="d2">2</data>
+</edge>
+<edge source="Cut Bank" target="Browning">
+  <data key="d2">2</data>
+</edge>
+<edge source="Browning" target="Essex">
+  <data key="d2">2</data>
+</edge>
+<edge source="Essex" target="West Glacier">
+  <data key="d2">2</data>
+</edge>
+<edge source="West Glacier" target="Whitefish">
+  <data key="d2">2</data>
+</edge>
+<edge source="Whitefish" target="Libby">
+  <data key="d2">2</data>
+</edge>
+<edge source="Libby" target="Sandpoint">
+  <data key="d2">2</data>
+</edge>
+<edge source="Sandpoint" target="Spokane">
+  <data key="d2">2</data>
+</edge>
+<edge source="Spokane" target="Ephrata">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ephrata" target="Wenatchee">
+  <data key="d2">2</data>
+</edge>
+<edge source="Wenatchee" target="Leavenworth">
+  <data key="d2">2</data>
+</edge>
+<edge source="Leavenworth" target="Everett">
+  <data key="d2">2</data>
+</edge>
+<edge source="Everett" target="Edmonds">
+  <data key="d2">4</data>
+</edge>
+<edge source="Everett" target="Stanwood">
+  <data key="d2">2</data>
+</edge>
+<edge source="Edmonds" target="Seattle King Street">
+  <data key="d2">4</data>
+</edge>
+<edge source="Seattle King Street" target="Tacoma Dome">
+  <data key="d2">2</data>
+</edge>
+<edge source="Seattle King Street" target="Tukwila">
+  <data key="d2">3</data>
+</edge>
+<edge source="Tacoma Dome" target="Lacey">
+  <data key="d2">5</data>
+</edge>
+<edge source="Tacoma Dome" target="Tukwila">
+  <data key="d2">3</data>
+</edge>
+<edge source="Lacey" target="Centralia">
+  <data key="d2">5</data>
+</edge>
+<edge source="Centralia" target="Kelso">
+  <data key="d2">5</data>
+</edge>
+<edge source="Centralia" target="Carbondale">
+  <data key="d2">1</data>
+</edge>
+<edge source="Centralia" target="Effingham">
+  <data key="d2">1</data>
+</edge>
+<edge source="Kelso" target="Vancouver">
+  <data key="d2">5</data>
+</edge>
+<edge source="Vancouver" target="Portland">
+  <data key="d2">5</data>
+</edge>
+<edge source="Portland" target="Salem">
+  <data key="d2">2</data>
+</edge>
+<edge source="Portland" target="Oregon City">
+  <data key="d2">2</data>
+</edge>
+<edge source="Portland" target="Saco-Biddeford">
+  <data key="d2">2</data>
+</edge>
+<edge source="Portland" target="Freeport">
+  <data key="d2">2</data>
+</edge>
+<edge source="Salem" target="Albany">
+  <data key="d2">4</data>
+</edge>
+<edge source="Salem" target="Oregon City">
+  <data key="d2">2</data>
+</edge>
+<edge source="Albany" target="Eugene-Springfield">
+  <data key="d2">4</data>
+</edge>
+<edge source="Eugene-Springfield" target="Chemult">
+  <data key="d2">2</data>
+</edge>
+<edge source="Chemult" target="Klamath Falls">
+  <data key="d2">2</data>
+</edge>
+<edge source="Klamath Falls" target="Dunsmuir">
+  <data key="d2">2</data>
+</edge>
+<edge source="Dunsmuir" target="Redding">
+  <data key="d2">2</data>
+</edge>
+<edge source="Redding" target="Chico">
+  <data key="d2">2</data>
+</edge>
+<edge source="Oakland-Jack London Square" target="San Jose Diridon">
+  <data key="d2">2</data>
+</edge>
+<edge source="Oakland-Jack London Square" target="Oakland Coliseum">
+  <data key="d2">2</data>
+</edge>
+<edge source="San Jose Diridon" target="Salinas">
+  <data key="d2">2</data>
+</edge>
+<edge source="San Jose Diridon" target="Santa Clara">
+  <data key="d2">2</data>
+</edge>
+<edge source="Salinas" target="Paso Robles">
+  <data key="d2">2</data>
+</edge>
+<edge source="Paso Robles" target="San Luis Obispo">
+  <data key="d2">2</data>
+</edge>
+<edge source="San Luis Obispo" target="Santa Barbara">
+  <data key="d2">2</data>
+</edge>
+<edge source="San Luis Obispo" target="Grover Beach">
+  <data key="d2">2</data>
+</edge>
+<edge source="Santa Barbara" target="Oxnard">
+  <data key="d2">2</data>
+</edge>
+<edge source="Santa Barbara" target="Carpinteria">
+  <data key="d2">4</data>
+</edge>
+<edge source="Santa Barbara" target="Goleta">
+  <data key="d2">4</data>
+</edge>
+<edge source="Oxnard" target="Simi Valley">
+  <data key="d2">2</data>
+</edge>
+<edge source="Oxnard" target="Camarillo">
+  <data key="d2">4</data>
+</edge>
+<edge source="Oxnard" target="Ventura">
+  <data key="d2">4</data>
+</edge>
+<edge source="Simi Valley" target="Van Nuys">
+  <data key="d2">2</data>
+</edge>
+<edge source="Simi Valley" target="Chatsworth">
+  <data key="d2">4</data>
+</edge>
+<edge source="Simi Valley" target="Moorpark">
+  <data key="d2">4</data>
+</edge>
+<edge source="Van Nuys" target="Burbank Airport">
+  <data key="d2">5</data>
+</edge>
+<edge source="Van Nuys" target="Chatsworth">
+  <data key="d2">2</data>
+</edge>
+<edge source="Van Nuys" target="Northridge">
+  <data key="d2">2</data>
+</edge>
+<edge source="Burbank Airport" target="Glendale">
+  <data key="d2">2</data>
+</edge>
+<edge source="Burbank Airport" target="Burbank">
+  <data key="d2">2</data>
+</edge>
+<edge source="Newark Penn" target="New York Penn">
+  <data key="d2">51</data>
+</edge>
+<edge source="Newark Penn" target="Trenton">
+  <data key="d2">12</data>
+</edge>
+<edge source="Newark Penn" target="Metropark">
+  <data key="d2">16</data>
+</edge>
+<edge source="Newark Penn" target="Princeton Junction">
+  <data key="d2">1</data>
+</edge>
+<edge source="Newark Penn" target="Newark Airport">
+  <data key="d2">13</data>
+</edge>
+<edge source="Newark Penn" target="New Brunswick">
+  <data key="d2">1</data>
+</edge>
+<edge source="Newark Penn" target="Philadelphia 30th Street">
+  <data key="d2">8</data>
+</edge>
+<edge source="Trenton" target="Philadelphia 30th Street">
+  <data key="d2">36</data>
+</edge>
+<edge source="Trenton" target="Metropark">
+  <data key="d2">14</data>
+</edge>
+<edge source="Trenton" target="Princeton Junction">
+  <data key="d2">5</data>
+</edge>
+<edge source="Trenton" target="Newark Airport">
+  <data key="d2">6</data>
+</edge>
+<edge source="Trenton" target="Cornwells Heights">
+  <data key="d2">1</data>
+</edge>
+<edge source="Philadelphia 30th Street" target="Wilmington">
+  <data key="d2">42</data>
+</edge>
+<edge source="Philadelphia 30th Street" target="Paoli">
+  <data key="d2">4</data>
+</edge>
+<edge source="Philadelphia 30th Street" target="Metropark">
+  <data key="d2">6</data>
+</edge>
+<edge source="Philadelphia 30th Street" target="Philadelphia North">
+  <data key="d2">1</data>
+</edge>
+<edge source="Philadelphia 30th Street" target="Ardmore">
+  <data key="d2">4</data>
+</edge>
+<edge source="Philadelphia 30th Street" target="Baltimore Penn">
+  <data key="d2">2</data>
+</edge>
+<edge source="Philadelphia 30th Street" target="New York Penn">
+  <data key="d2">1</data>
+</edge>
+<edge source="Wilmington" target="Baltimore Penn">
+  <data key="d2">36</data>
+</edge>
+<edge source="Wilmington" target="Aberdeen">
+  <data key="d2">3</data>
+</edge>
+<edge source="Wilmington" target="Newark">
+  <data key="d2">3</data>
+</edge>
+<edge source="Baltimore Penn" target="Washington Union">
+  <data key="d2">13</data>
+</edge>
+<edge source="Baltimore Penn" target="Baltimore Airport">
+  <data key="d2">30</data>
+</edge>
+<edge source="Baltimore Penn" target="Aberdeen">
+  <data key="d2">3</data>
+</edge>
+<edge source="Baltimore Penn" target="Newark">
+  <data key="d2">3</data>
+</edge>
+<edge source="Baltimore Penn" target="New Carrollton">
+  <data key="d2">1</data>
+</edge>
+<edge source="Washington Union" target="Alexandria">
+  <data key="d2">22</data>
+</edge>
+<edge source="Washington Union" target="Baltimore Airport">
+  <data key="d2">8</data>
+</edge>
+<edge source="Washington Union" target="Rockville">
+  <data key="d2">1</data>
+</edge>
+<edge source="Washington Union" target="New Carrollton">
+  <data key="d2">23</data>
+</edge>
+<edge source="Alexandria" target="Manassas">
+  <data key="d2">3</data>
+</edge>
+<edge source="Alexandria" target="Quantico">
+  <data key="d2">4</data>
+</edge>
+<edge source="Alexandria" target="Woodbridge">
+  <data key="d2">6</data>
+</edge>
+<edge source="Alexandria" target="Richmond Staples Mill Road">
+  <data key="d2">4</data>
+</edge>
+<edge source="Alexandria" target="Fredericksburg">
+  <data key="d2">4</data>
+</edge>
+<edge source="Alexandria" target="Burke Centre">
+  <data key="d2">1</data>
+</edge>
+<edge source="Manassas" target="Culpeper">
+  <data key="d2">4</data>
+</edge>
+<edge source="Manassas" target="Burke Centre">
+  <data key="d2">1</data>
+</edge>
+<edge source="Culpeper" target="Charlottesville">
+  <data key="d2">4</data>
+</edge>
+<edge source="Charlottesville" target="Lynchburg-Kemper Street">
+  <data key="d2">4</data>
+</edge>
+<edge source="Lynchburg-Kemper Street" target="Danville">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lynchburg-Kemper Street" target="Roanoke">
+  <data key="d2">2</data>
+</edge>
+<edge source="Danville" target="Greensboro">
+  <data key="d2">2</data>
+</edge>
+<edge source="Greensboro" target="High Point">
+  <data key="d2">7</data>
+</edge>
+<edge source="High Point" target="Salisbury">
+  <data key="d2">7</data>
+</edge>
+<edge source="Salisbury" target="Charlotte">
+  <data key="d2">3</data>
+</edge>
+<edge source="Salisbury" target="Kannapolis">
+  <data key="d2">4</data>
+</edge>
+<edge source="Charlotte" target="Gastonia">
+  <data key="d2">2</data>
+</edge>
+<edge source="Charlotte" target="Kannapolis">
+  <data key="d2">4</data>
+</edge>
+<edge source="Gastonia" target="Spartanburg">
+  <data key="d2">2</data>
+</edge>
+<edge source="Spartanburg" target="Greenville">
+  <data key="d2">2</data>
+</edge>
+<edge source="Greenville" target="Clemson">
+  <data key="d2">2</data>
+</edge>
+<edge source="Clemson" target="Toccoa">
+  <data key="d2">2</data>
+</edge>
+<edge source="Toccoa" target="Gainesville">
+  <data key="d2">2</data>
+</edge>
+<edge source="Gainesville" target="Atlanta Peachtree">
+  <data key="d2">2</data>
+</edge>
+<edge source="Atlanta Peachtree" target="Anniston">
+  <data key="d2">2</data>
+</edge>
+<edge source="Anniston" target="Birmingham">
+  <data key="d2">2</data>
+</edge>
+<edge source="Birmingham" target="Tuscaloosa">
+  <data key="d2">2</data>
+</edge>
+<edge source="Tuscaloosa" target="Meridian">
+  <data key="d2">2</data>
+</edge>
+<edge source="Laurel" target="Meridian">
+  <data key="d2">2</data>
+</edge>
+<edge source="Laurel" target="Hattiesburg">
+  <data key="d2">2</data>
+</edge>
+<edge source="Hattiesburg" target="Picayune">
+  <data key="d2">2</data>
+</edge>
+<edge source="Picayune" target="Slidell">
+  <data key="d2">2</data>
+</edge>
+<edge source="Baltimore Airport" target="New Carrollton">
+  <data key="d2">22</data>
+</edge>
+<edge source="Metropark" target="New Brunswick">
+  <data key="d2">3</data>
+</edge>
+<edge source="Metropark" target="Newark Airport">
+  <data key="d2">7</data>
+</edge>
+<edge source="Joliet" target="Pontiac">
+  <data key="d2">2</data>
+</edge>
+<edge source="Joliet" target="Dwight">
+  <data key="d2">2</data>
+</edge>
+<edge source="Joliet" target="Summit">
+  <data key="d2">2</data>
+</edge>
+<edge source="Pontiac" target="Bloomington-Normal">
+  <data key="d2">4</data>
+</edge>
+<edge source="Pontiac" target="Dwight">
+  <data key="d2">2</data>
+</edge>
+<edge source="Pontiac" target="Troy">
+  <data key="d2">1</data>
+</edge>
+<edge source="Springfield" target="Carlinville">
+  <data key="d2">4</data>
+</edge>
+<edge source="Springfield" target="Holyoke">
+  <data key="d2">2</data>
+</edge>
+<edge source="Springfield" target="Windsor Locks">
+  <data key="d2">7</data>
+</edge>
+<edge source="Springfield" target="Pittsfield">
+  <data key="d2">2</data>
+</edge>
+<edge source="Springfield" target="Worcester">
+  <data key="d2">2</data>
+</edge>
+<edge source="Carlinville" target="Alton">
+  <data key="d2">4</data>
+</edge>
+<edge source="Alton" target="St. Louis Gateway">
+  <data key="d2">4</data>
+</edge>
+<edge source="St. Louis Gateway" target="Arcadia Valley">
+  <data key="d2">2</data>
+</edge>
+<edge source="St. Louis Gateway" target="Kirkwood">
+  <data key="d2">2</data>
+</edge>
+<edge source="Arcadia Valley" target="Poplar Bluff">
+  <data key="d2">2</data>
+</edge>
+<edge source="Poplar Bluff" target="Walnut Ridge">
+  <data key="d2">2</data>
+</edge>
+<edge source="Walnut Ridge" target="Little Rock">
+  <data key="d2">2</data>
+</edge>
+<edge source="Little Rock" target="Malvern">
+  <data key="d2">2</data>
+</edge>
+<edge source="Malvern" target="Arkadelphia">
+  <data key="d2">2</data>
+</edge>
+<edge source="Arkadelphia" target="Hope">
+  <data key="d2">2</data>
+</edge>
+<edge source="Hope" target="Texarkana">
+  <data key="d2">2</data>
+</edge>
+<edge source="Texarkana" target="Marshall">
+  <data key="d2">2</data>
+</edge>
+<edge source="Marshall" target="Longview">
+  <data key="d2">2</data>
+</edge>
+<edge source="Longview" target="Mineola">
+  <data key="d2">2</data>
+</edge>
+<edge source="Mineola" target="Dallas">
+  <data key="d2">2</data>
+</edge>
+<edge source="Dallas" target="Fort Worth">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fort Worth" target="Cleburne">
+  <data key="d2">2</data>
+</edge>
+<edge source="Cleburne" target="McGregor">
+  <data key="d2">2</data>
+</edge>
+<edge source="McGregor" target="Temple">
+  <data key="d2">2</data>
+</edge>
+<edge source="Temple" target="Taylor">
+  <data key="d2">2</data>
+</edge>
+<edge source="Taylor" target="Austin">
+  <data key="d2">2</data>
+</edge>
+<edge source="Austin" target="San Marcos">
+  <data key="d2">2</data>
+</edge>
+<edge source="Rockville" target="Harpers Ferry">
+  <data key="d2">1</data>
+</edge>
+<edge source="Harpers Ferry" target="Martinsburg">
+  <data key="d2">1</data>
+</edge>
+<edge source="Martinsburg" target="Cumberland">
+  <data key="d2">1</data>
+</edge>
+<edge source="Cumberland" target="Connellsville">
+  <data key="d2">1</data>
+</edge>
+<edge source="Connellsville" target="Pittsburgh">
+  <data key="d2">1</data>
+</edge>
+<edge source="Pittsburgh" target="Alliance">
+  <data key="d2">1</data>
+</edge>
+<edge source="Pittsburgh" target="Greensburg">
+  <data key="d2">2</data>
+</edge>
+<edge source="Alliance" target="Cleveland">
+  <data key="d2">1</data>
+</edge>
+<edge source="Cleveland" target="Elyria">
+  <data key="d2">3</data>
+</edge>
+<edge source="Cleveland" target="Erie">
+  <data key="d2">2</data>
+</edge>
+<edge source="Elyria" target="Sandusky">
+  <data key="d2">3</data>
+</edge>
+<edge source="Sandusky" target="Toledo">
+  <data key="d2">3</data>
+</edge>
+<edge source="Toledo" target="Waterloo">
+  <data key="d2">1</data>
+</edge>
+<edge source="Toledo" target="Bryan">
+  <data key="d2">2</data>
+</edge>
+<edge source="Waterloo" target="Elkhart">
+  <data key="d2">3</data>
+</edge>
+<edge source="Waterloo" target="Bryan">
+  <data key="d2">2</data>
+</edge>
+<edge source="Elkhart" target="South Bend">
+  <data key="d2">3</data>
+</edge>
+<edge source="Greensburg" target="Latrobe">
+  <data key="d2">2</data>
+</edge>
+<edge source="Latrobe" target="Johnstown">
+  <data key="d2">2</data>
+</edge>
+<edge source="Johnstown" target="Altoona">
+  <data key="d2">2</data>
+</edge>
+<edge source="Altoona" target="Tyrone">
+  <data key="d2">2</data>
+</edge>
+<edge source="Tyrone" target="Huntingdon">
+  <data key="d2">2</data>
+</edge>
+<edge source="Huntingdon" target="Lewistown">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lewistown" target="Harrisburg">
+  <data key="d2">2</data>
+</edge>
+<edge source="Harrisburg" target="Elizabethtown">
+  <data key="d2">2</data>
+</edge>
+<edge source="Harrisburg" target="Middletown">
+  <data key="d2">6</data>
+</edge>
+<edge source="Elizabethtown" target="Lancaster">
+  <data key="d2">3</data>
+</edge>
+<edge source="Elizabethtown" target="Mount Joy">
+  <data key="d2">5</data>
+</edge>
+<edge source="Elizabethtown" target="Middletown">
+  <data key="d2">6</data>
+</edge>
+<edge source="Lancaster" target="Exton">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lancaster" target="Paoli">
+  <data key="d2">1</data>
+</edge>
+<edge source="Lancaster" target="Parkesburg">
+  <data key="d2">5</data>
+</edge>
+<edge source="Lancaster" target="Mount Joy">
+  <data key="d2">5</data>
+</edge>
+<edge source="Exton" target="Paoli">
+  <data key="d2">7</data>
+</edge>
+<edge source="Exton" target="Downingtown">
+  <data key="d2">5</data>
+</edge>
+<edge source="Paoli" target="Ardmore">
+  <data key="d2">4</data>
+</edge>
+<edge source="Erie" target="Buffalo-Depew">
+  <data key="d2">2</data>
+</edge>
+<edge source="Buffalo-Depew" target="Rochester">
+  <data key="d2">6</data>
+</edge>
+<edge source="Buffalo-Depew" target="Buffalo-Exchange Street">
+  <data key="d2">4</data>
+</edge>
+<edge source="Rochester" target="Syracuse">
+  <data key="d2">6</data>
+</edge>
+<edge source="Syracuse" target="Utica">
+  <data key="d2">2</data>
+</edge>
+<edge source="Syracuse" target="Rome">
+  <data key="d2">4</data>
+</edge>
+<edge source="Utica" target="Schenectady">
+  <data key="d2">2</data>
+</edge>
+<edge source="Utica" target="Amsterdam">
+  <data key="d2">4</data>
+</edge>
+<edge source="Utica" target="Rome">
+  <data key="d2">4</data>
+</edge>
+<edge source="Schenectady" target="Albany-Rensselaer">
+  <data key="d2">10</data>
+</edge>
+<edge source="Schenectady" target="Amsterdam">
+  <data key="d2">4</data>
+</edge>
+<edge source="Schenectady" target="Saratoga Springs">
+  <data key="d2">4</data>
+</edge>
+<edge source="Albany-Rensselaer" target="Rhinecliff-Kingston">
+  <data key="d2">2</data>
+</edge>
+<edge source="Albany-Rensselaer" target="Hudson">
+  <data key="d2">10</data>
+</edge>
+<edge source="Albany-Rensselaer" target="Pittsfield">
+  <data key="d2">2</data>
+</edge>
+<edge source="Rhinecliff-Kingston" target="Poughkeepsie">
+  <data key="d2">12</data>
+</edge>
+<edge source="Rhinecliff-Kingston" target="Hudson">
+  <data key="d2">10</data>
+</edge>
+<edge source="Poughkeepsie" target="Croton-Harmon">
+  <data key="d2">12</data>
+</edge>
+<edge source="Croton-Harmon" target="New York Penn">
+  <data key="d2">4</data>
+</edge>
+<edge source="Croton-Harmon" target="Yonkers">
+  <data key="d2">8</data>
+</edge>
+<edge source="St. Albans" target="Essex Junction">
+  <data key="d2">2</data>
+</edge>
+<edge source="Essex Junction" target="Waterbury-Stowe">
+  <data key="d2">2</data>
+</edge>
+<edge source="Waterbury-Stowe" target="Montpelier">
+  <data key="d2">2</data>
+</edge>
+<edge source="Montpelier" target="Randolph">
+  <data key="d2">2</data>
+</edge>
+<edge source="Randolph" target="White River Junction">
+  <data key="d2">2</data>
+</edge>
+<edge source="White River Junction" target="Windsor-Mt. Ascutney">
+  <data key="d2">2</data>
+</edge>
+<edge source="Windsor-Mt. Ascutney" target="Claremont">
+  <data key="d2">2</data>
+</edge>
+<edge source="Claremont" target="Bellows Falls">
+  <data key="d2">2</data>
+</edge>
+<edge source="Bellows Falls" target="Brattleboro">
+  <data key="d2">2</data>
+</edge>
+<edge source="Brattleboro" target="Greenfield">
+  <data key="d2">2</data>
+</edge>
+<edge source="Greenfield" target="Northampton">
+  <data key="d2">2</data>
+</edge>
+<edge source="Northampton" target="Holyoke">
+  <data key="d2">2</data>
+</edge>
+<edge source="Windsor Locks" target="Hartford">
+  <data key="d2">2</data>
+</edge>
+<edge source="Windsor Locks" target="Windsor">
+  <data key="d2">5</data>
+</edge>
+<edge source="Hartford" target="Meriden">
+  <data key="d2">2</data>
+</edge>
+<edge source="Hartford" target="Windsor">
+  <data key="d2">5</data>
+</edge>
+<edge source="Hartford" target="Berlin">
+  <data key="d2">5</data>
+</edge>
+<edge source="Meriden" target="New Haven Union">
+  <data key="d2">2</data>
+</edge>
+<edge source="Meriden" target="Berlin">
+  <data key="d2">5</data>
+</edge>
+<edge source="Meriden" target="Wallingford">
+  <data key="d2">5</data>
+</edge>
+<edge source="New Haven Union" target="Bridgeport">
+  <data key="d2">17</data>
+</edge>
+<edge source="New Haven Union" target="Old Saybrook">
+  <data key="d2">10</data>
+</edge>
+<edge source="New Haven Union" target="New London">
+  <data key="d2">3</data>
+</edge>
+<edge source="New Haven Union" target="Stamford">
+  <data key="d2">11</data>
+</edge>
+<edge source="New Haven Union" target="New Haven State Street">
+  <data key="d2">5</data>
+</edge>
+<edge source="New Haven Union" target="Mystic">
+  <data key="d2">1</data>
+</edge>
+<edge source="New Haven Union" target="Providence">
+  <data key="d2">10</data>
+</edge>
+<edge source="New Haven Union" target="New York Penn">
+  <data key="d2">1</data>
+</edge>
+<edge source="Bridgeport" target="Stamford">
+  <data key="d2">17</data>
+</edge>
+<edge source="Stamford" target="New York Penn">
+  <data key="d2">16</data>
+</edge>
+<edge source="Stamford" target="New Rochelle">
+  <data key="d2">12</data>
+</edge>
+<edge source="Princeton Junction" target="New Brunswick">
+  <data key="d2">4</data>
+</edge>
+<edge source="Hammond" target="McComb">
+  <data key="d2">1</data>
+</edge>
+<edge source="McComb" target="Brookhaven">
+  <data key="d2">1</data>
+</edge>
+<edge source="Brookhaven" target="Hazlehurst">
+  <data key="d2">1</data>
+</edge>
+<edge source="Hazlehurst" target="Jackson">
+  <data key="d2">1</data>
+</edge>
+<edge source="Jackson" target="Yazoo City">
+  <data key="d2">1</data>
+</edge>
+<edge source="Jackson" target="Battle Creek">
+  <data key="d2">1</data>
+</edge>
+<edge source="Jackson" target="Ann Arbor">
+  <data key="d2">1</data>
+</edge>
+<edge source="Yazoo City" target="Greenwood">
+  <data key="d2">1</data>
+</edge>
+<edge source="Greenwood" target="Marks">
+  <data key="d2">1</data>
+</edge>
+<edge source="Marks" target="Memphis Central">
+  <data key="d2">1</data>
+</edge>
+<edge source="Memphis Central" target="Newbern-Dyersburg">
+  <data key="d2">1</data>
+</edge>
+<edge source="Newbern-Dyersburg" target="Fulton">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fulton" target="Carbondale">
+  <data key="d2">1</data>
+</edge>
+<edge source="Effingham" target="Mattoon">
+  <data key="d2">1</data>
+</edge>
+<edge source="Mattoon" target="Champaign-Urbana">
+  <data key="d2">1</data>
+</edge>
+<edge source="Champaign-Urbana" target="Kankakee">
+  <data key="d2">1</data>
+</edge>
+<edge source="Kankakee" target="Homewood">
+  <data key="d2">1</data>
+</edge>
+<edge source="Yonkers" target="New York Penn">
+  <data key="d2">8</data>
+</edge>
+<edge source="Buffalo-Exchange Street" target="Niagara Falls">
+  <data key="d2">4</data>
+</edge>
+<edge source="Niagara Falls" target="Niagara Falls">
+  <data key="d2">2</data>
+</edge>
+<edge source="Niagara Falls" target="Toronto Union">
+  <data key="d2">2</data>
+</edge>
+<edge source="New Rochelle" target="New York Penn">
+  <data key="d2">12</data>
+</edge>
+<edge source="Old Saybrook" target="New London">
+  <data key="d2">9</data>
+</edge>
+<edge source="Old Saybrook" target="Providence">
+  <data key="d2">1</data>
+</edge>
+<edge source="New London" target="Mystic">
+  <data key="d2">6</data>
+</edge>
+<edge source="New London" target="Kingston">
+  <data key="d2">4</data>
+</edge>
+<edge source="New London" target="Westerly">
+  <data key="d2">2</data>
+</edge>
+<edge source="Mystic" target="Westerly">
+  <data key="d2">6</data>
+</edge>
+<edge source="Mystic" target="Kingston">
+  <data key="d2">1</data>
+</edge>
+<edge source="Westerly" target="Kingston">
+  <data key="d2">7</data>
+</edge>
+<edge source="Westerly" target="Providence">
+  <data key="d2">1</data>
+</edge>
+<edge source="Kingston" target="Providence">
+  <data key="d2">12</data>
+</edge>
+<edge source="Providence" target="Westwood-Route 128">
+  <data key="d2">24</data>
+</edge>
+<edge source="Westwood-Route 128" target="Boston Back Bay">
+  <data key="d2">24</data>
+</edge>
+<edge source="Boston Back Bay" target="Boston South">
+  <data key="d2">26</data>
+</edge>
+<edge source="Boston Back Bay" target="Framingham">
+  <data key="d2">2</data>
+</edge>
+<edge source="Montreal" target="Saint-Lambert">
+  <data key="d2">2</data>
+</edge>
+<edge source="Saint-Lambert" target="Rouses Point">
+  <data key="d2">2</data>
+</edge>
+<edge source="Rouses Point" target="Plattsburgh">
+  <data key="d2">2</data>
+</edge>
+<edge source="Plattsburgh" target="Westport">
+  <data key="d2">2</data>
+</edge>
+<edge source="Westport" target="Port Henry">
+  <data key="d2">2</data>
+</edge>
+<edge source="Port Henry" target="Ticonderoga">
+  <data key="d2">2</data>
+</edge>
+<edge source="Ticonderoga" target="Whitehall">
+  <data key="d2">2</data>
+</edge>
+<edge source="Whitehall" target="Fort Edward">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fort Edward" target="Saratoga Springs">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fort Edward" target="Castleton">
+  <data key="d2">2</data>
+</edge>
+<edge source="Durham" target="Cary">
+  <data key="d2">5</data>
+</edge>
+<edge source="Cary" target="Raleigh Union">
+  <data key="d2">7</data>
+</edge>
+<edge source="Cary" target="Southern Pines">
+  <data key="d2">2</data>
+</edge>
+<edge source="Raleigh Union" target="Selma">
+  <data key="d2">2</data>
+</edge>
+<edge source="Raleigh Union" target="Rocky Mount">
+  <data key="d2">2</data>
+</edge>
+<edge source="Quantico" target="Fredericksburg">
+  <data key="d2">10</data>
+</edge>
+<edge source="Quantico" target="Woodbridge">
+  <data key="d2">6</data>
+</edge>
+<edge source="Fredericksburg" target="Richmond Staples Mill Road">
+  <data key="d2">6</data>
+</edge>
+<edge source="Fredericksburg" target="Ashland">
+  <data key="d2">8</data>
+</edge>
+<edge source="Richmond Staples Mill Road" target="Petersburg">
+  <data key="d2">13</data>
+</edge>
+<edge source="Richmond Staples Mill Road" target="Ashland">
+  <data key="d2">8</data>
+</edge>
+<edge source="Richmond Staples Mill Road" target="Richmond Main Street">
+  <data key="d2">5</data>
+</edge>
+<edge source="Petersburg" target="Rocky Mount">
+  <data key="d2">8</data>
+</edge>
+<edge source="Petersburg" target="Norfolk">
+  <data key="d2">5</data>
+</edge>
+<edge source="Rocky Mount" target="Wilson">
+  <data key="d2">4</data>
+</edge>
+<edge source="Rocky Mount" target="Fayetteville">
+  <data key="d2">2</data>
+</edge>
+<edge source="Wilson" target="Selma">
+  <data key="d2">4</data>
+</edge>
+<edge source="Selma" target="Fayetteville">
+  <data key="d2">2</data>
+</edge>
+<edge source="Richmond Main Street" target="Williamsburg">
+  <data key="d2">3</data>
+</edge>
+<edge source="Fayetteville" target="Dillon">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fayetteville" target="Florence">
+  <data key="d2">2</data>
+</edge>
+<edge source="Dillon" target="Florence">
+  <data key="d2">2</data>
+</edge>
+<edge source="Florence" target="Kingstree">
+  <data key="d2">4</data>
+</edge>
+<edge source="Kingstree" target="Charleston">
+  <data key="d2">4</data>
+</edge>
+<edge source="Charleston" target="Yemassee">
+  <data key="d2">4</data>
+</edge>
+<edge source="Yemassee" target="Savannah">
+  <data key="d2">4</data>
+</edge>
+<edge source="Savannah" target="Denmark">
+  <data key="d2">2</data>
+</edge>
+<edge source="Savannah" target="Jacksonville">
+  <data key="d2">2</data>
+</edge>
+<edge source="Savannah" target="Jesup">
+  <data key="d2">2</data>
+</edge>
+<edge source="Southern Pines" target="Hamlet">
+  <data key="d2">2</data>
+</edge>
+<edge source="Hamlet" target="Camden">
+  <data key="d2">2</data>
+</edge>
+<edge source="Camden" target="Columbia">
+  <data key="d2">2</data>
+</edge>
+<edge source="Columbia" target="Denmark">
+  <data key="d2">2</data>
+</edge>
+<edge source="Jacksonville" target="Palatka">
+  <data key="d2">4</data>
+</edge>
+<edge source="Jacksonville" target="Jesup">
+  <data key="d2">2</data>
+</edge>
+<edge source="Palatka" target="DeLand">
+  <data key="d2">4</data>
+</edge>
+<edge source="DeLand" target="Winter Park">
+  <data key="d2">4</data>
+</edge>
+<edge source="Winter Park" target="Orlando">
+  <data key="d2">4</data>
+</edge>
+<edge source="Orlando" target="Kissimmee">
+  <data key="d2">4</data>
+</edge>
+<edge source="Kissimmee" target="Lakeland">
+  <data key="d2">2</data>
+</edge>
+<edge source="Kissimmee" target="Winter Haven">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lakeland" target="Tampa">
+  <data key="d2">4</data>
+</edge>
+<edge source="Lakeland" target="Winter Haven">
+  <data key="d2">2</data>
+</edge>
+<edge source="Winter Haven" target="Sebring">
+  <data key="d2">4</data>
+</edge>
+<edge source="Sebring" target="Okeechobee">
+  <data key="d2">2</data>
+</edge>
+<edge source="Sebring" target="West Palm Beach">
+  <data key="d2">2</data>
+</edge>
+<edge source="Okeechobee" target="West Palm Beach">
+  <data key="d2">2</data>
+</edge>
+<edge source="West Palm Beach" target="Delray Beach">
+  <data key="d2">4</data>
+</edge>
+<edge source="Delray Beach" target="Deerfield Beach">
+  <data key="d2">4</data>
+</edge>
+<edge source="Deerfield Beach" target="Fort Lauderdale">
+  <data key="d2">4</data>
+</edge>
+<edge source="Fort Lauderdale" target="Hollywood">
+  <data key="d2">4</data>
+</edge>
+<edge source="Hollywood" target="Miami">
+  <data key="d2">4</data>
+</edge>
+<edge source="Wallingford" target="New Haven State Street">
+  <data key="d2">5</data>
+</edge>
+<edge source="Williamsburg" target="Newport News">
+  <data key="d2">3</data>
+</edge>
+<edge source="Ferrisburgh-Vergennes" target="Middlebury">
+  <data key="d2">2</data>
+</edge>
+<edge source="Middlebury" target="Rutland">
+  <data key="d2">2</data>
+</edge>
+<edge source="Rutland" target="Castleton">
+  <data key="d2">2</data>
+</edge>
+<edge source="Independence" target="Lee's Summit">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lee's Summit" target="Warrensburg">
+  <data key="d2">2</data>
+</edge>
+<edge source="Warrensburg" target="Sedalia">
+  <data key="d2">2</data>
+</edge>
+<edge source="Sedalia" target="Jefferson City">
+  <data key="d2">2</data>
+</edge>
+<edge source="Jefferson City" target="Hermann">
+  <data key="d2">2</data>
+</edge>
+<edge source="Hermann" target="Washington">
+  <data key="d2">2</data>
+</edge>
+<edge source="Washington" target="Kirkwood">
+  <data key="d2">2</data>
+</edge>
+<edge source="Sturtevant" target="Milwaukee Airport">
+  <data key="d2">2</data>
+</edge>
+<edge source="New Buffalo" target="Niles">
+  <data key="d2">1</data>
+</edge>
+<edge source="Niles" target="Kalamazoo">
+  <data key="d2">1</data>
+</edge>
+<edge source="Kalamazoo" target="Battle Creek">
+  <data key="d2">1</data>
+</edge>
+<edge source="Ann Arbor" target="Dearborn">
+  <data key="d2">1</data>
+</edge>
+<edge source="Dearborn" target="Detroit">
+  <data key="d2">1</data>
+</edge>
+<edge source="Detroit" target="Royal Oak">
+  <data key="d2">1</data>
+</edge>
+<edge source="Royal Oak" target="Troy">
+  <data key="d2">1</data>
+</edge>
+<edge source="Worcester" target="Framingham">
+  <data key="d2">2</data>
+</edge>
+<edge source="Stanwood" target="Mount Vernon">
+  <data key="d2">2</data>
+</edge>
+<edge source="Mount Vernon" target="Bellingham Fairhaven">
+  <data key="d2">2</data>
+</edge>
+<edge source="Bellingham Fairhaven" target="Vancouver Pacific Central">
+  <data key="d2">2</data>
+</edge>
+<edge source="Santa Clara" target="Santa Clara - Great America">
+  <data key="d2">2</data>
+</edge>
+<edge source="Santa Clara - Great America" target="Fremont">
+  <data key="d2">2</data>
+</edge>
+<edge source="Fremont" target="Hayward">
+  <data key="d2">2</data>
+</edge>
+<edge source="Hayward" target="Oakland Coliseum">
+  <data key="d2">2</data>
+</edge>
+<edge source="Suisun-Fairfield" target="Fairfield-Vacaville">
+  <data key="d2">2</data>
+</edge>
+<edge source="Downingtown" target="Coatesville">
+  <data key="d2">4</data>
+</edge>
+<edge source="Downingtown" target="Parkesburg">
+  <data key="d2">1</data>
+</edge>
+<edge source="Coatesville" target="Parkesburg">
+  <data key="d2">4</data>
+</edge>
+<edge source="Cornwells Heights" target="Philadelphia North">
+  <data key="d2">1</data>
+</edge>
+<edge source="Boston North" target="Woburn-Anderson">
+  <data key="d2">2</data>
+</edge>
+<edge source="Woburn-Anderson" target="Haverhill">
+  <data key="d2">2</data>
+</edge>
+<edge source="Haverhill" target="Exeter">
+  <data key="d2">2</data>
+</edge>
+<edge source="Exeter" target="Durham-UNH">
+  <data key="d2">2</data>
+</edge>
+<edge source="Durham-UNH" target="Dover">
+  <data key="d2">2</data>
+</edge>
+<edge source="Dover" target="Wells">
+  <data key="d2">2</data>
+</edge>
+<edge source="Wells" target="Saco-Biddeford">
+  <data key="d2">2</data>
+</edge>
+<edge source="Freeport" target="Brunswick">
+  <data key="d2">2</data>
+</edge>
+<edge source="Lodi" target="Stockton Downtown">
+  <data key="d2">1</data>
+</edge>
+<edge source="Stockton Downtown" target="Modesto">
+  <data key="d2">1</data>
+</edge>
+<edge source="Modesto" target="Turlock-Denair">
+  <data key="d2">7</data>
+</edge>
+<edge source="Modesto" target="Stockton San Joaquin Street">
+  <data key="d2">6</data>
+</edge>
+<edge source="Turlock-Denair" target="Merced">
+  <data key="d2">7</data>
+</edge>
+<edge source="Merced" target="Madera">
+  <data key="d2">7</data>
+</edge>
+<edge source="Madera" target="Fresno">
+  <data key="d2">7</data>
+</edge>
+<edge source="Fresno" target="Hanford">
+  <data key="d2">7</data>
+</edge>
+<edge source="Hanford" target="Corcoran">
+  <data key="d2">7</data>
+</edge>
+<edge source="Corcoran" target="Wasco">
+  <data key="d2">7</data>
+</edge>
+<edge source="Wasco" target="Bakersfield">
+  <data key="d2">7</data>
+</edge>
+<edge source="Antioch-Pittsburg" target="Stockton San Joaquin Street">
+  <data key="d2">6</data>
+</edge>
+<edge source="San Juan Capistrano" target="Irvine">
+  <data key="d2">4</data>
+</edge>
+<edge source="Irvine" target="Santa Ana">
+  <data key="d2">4</data>
+</edge>
+<edge source="Santa Ana" target="Anaheim">
+  <data key="d2">4</data>
+</edge>
+<edge source="Glendale" target="Burbank">
+  <data key="d2">2</data>
+</edge>
+<edge source="Chatsworth" target="Northridge">
+  <data key="d2">2</data>
+</edge>
+<edge source="Moorpark" target="Camarillo">
+  <data key="d2">4</data>
+</edge>
+<edge source="Ventura" target="Carpinteria">
+  <data key="d2">4</data>
+</edge>
+<edge source="Goleta" target="Lompoc-Surf">
+  <data key="d2">2</data>
+</edge>
+<edge source="Grover Beach" target="Guadalupe">
+  <data key="d2">2</data>
+</edge>
+<edge source="Guadalupe" target="Lompoc-Surf">
+  <data key="d2">2</data>
+</edge>
+</graph></graphml>
